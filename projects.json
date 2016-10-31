@@ -21,10 +21,6 @@
             "gerrit_repo": [
                 {}
             ],
-            "mailing_lists": [],
-            "parent_project": [],
-            "releases": [],
-	"source_repo": [],
             "git": [
                 {
                     "url": "https://github.com/MozVR/webvr-libs.git"
@@ -63,7 +59,7 @@
                     "url": "https://github.com/MozVR/webvr-demos.git"
                 }
             ],
-            "github":[
+            "github": [
                 {
                     "url": "https://github.com/MozVR/webvr-libs"
                 },
@@ -100,8 +96,12 @@
                 {
                     "url": "https://github.com/MozVR/webvr-demos"
                 }
-            ]
-            ,"title": "MozVR",
+            ],
+            "mailing_lists": [],
+            "parent_project": [],
+            "releases": [],
+            "source_repo": [],
+            "title": "MozVR",
             "wiki_url": []
         },
         "aframevr": {
@@ -125,10 +125,6 @@
             "gerrit_repo": [
                 {}
             ],
-            "mailing_lists": [],
-            "parent_project": [],
-            "releases": [],
-	"source_repo": [],
             "git": [
                 {
                     "url": "https://github.com/aframevr/aframevr.github.io.git"
@@ -170,7 +166,7 @@
                     "url": "https://github.com/aframevr/aframe-v4.1.16-pro-final.git"
                 }
             ],
-            "github":[
+            "github": [
                 {
                     "url": "https://github.com/aframevr/aframevr.github.io"
                 },
@@ -211,6 +207,10 @@
                     "url": "https://github.com/aframevr/aframe-v4.1.16-pro-final"
                 }
             ],
+            "mailing_lists": [],
+            "parent_project": [],
+            "releases": [],
+            "source_repo": [],
             "title": "aframevr",
             "wiki_url": []
         },
@@ -235,10 +235,6 @@
             "gerrit_repo": [
                 {}
             ],
-            "mailing_lists": [],
-            "parent_project": [],
-            "releases": [],
-	"source_repo": [],
             "git": [
                 {
                     "url": "https://github.com/browserhtml/website-tiles.git"
@@ -247,7 +243,7 @@
                     "url": "https://github.com/browserhtml/browserhtml.git"
                 }
             ],
-            "github":[
+            "github": [
                 {
                     "url": "https://github.com/browserhtml/website-tiles"
                 },
@@ -255,6 +251,10 @@
                     "url": "https://github.com/browserhtml/browserhtml"
                 }
             ],
+            "mailing_lists": [],
+            "parent_project": [],
+            "releases": [],
+            "source_repo": [],
             "title": "browserhtml",
             "wiki_url": []
         },
@@ -279,10 +279,6 @@
             "gerrit_repo": [
                 {}
             ],
-            "mailing_lists": [],
-            "parent_project": [],
-            "releases": [],
-	"source_repo": [],
             "git": [
                 {
                     "url": "https://github.com/mozilla/redis-centos.git"
@@ -4381,9 +4377,4206 @@
                 },
                 {
                     "url": "https://github.com/mozilla/telemetry-batch-view.git"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//camino/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//chatzilla/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//comm-central/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//cvs-trunk-mirror/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//dom-inspector/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//graphs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//ipccode/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//mobile-browser/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//mozilla-build/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//mozilla-central/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//mozilla-unified/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//penelope/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//pyxpcom/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//schema-validation/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//tamarin-redux/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//try/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//try-comm-central/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//venkman/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/AnalyzeThis/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/autolog/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/blocker-reports/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/fennecpm/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/firebug/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/getlatest-tinderbox/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/grafxbot/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/hg-broker/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/logparser/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/mozautoeslib/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/mozautolog/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/mozillapulse/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/orangefactor/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/profilemanager/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/pulsebuildmonitor/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/pulseshims/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/pulsewebsite/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/remote-testing/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/sisyphus/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/speedtests/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//automation/topfails/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/ash-mozharness/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/autoland/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/braindump/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/buildapi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/buildbot/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/buildbot-configs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/buildbotcustom/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/cloud-tools/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/compare-locales/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/fork-hg-git/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/mapper/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/mozharness/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/mozpool/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/nagios-tools/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/opsi-package-sources/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/partner-repacks/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/preproduction/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/puppet/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/puppet-manifests/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/relabs-puppet/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/rpm-sources/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/serveS3/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/slave_health/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/talos/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/tools/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/tooltool/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/tupperware/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//build/twisted/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//experimental/firefox-unified-stage/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//experimental/gecko-dev/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//experimental/mozilla-central-gd/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//hgcustom/hg_templates/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//hgcustom/hghooks/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//hgcustom/hgscripts/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//hgcustom/library_overrides/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//hgcustom/pushlog/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//hgcustom/version-control-tools/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//incubator/embedding/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//incubator/offscreen/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//incubator/stylo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//incubator/stylo-try/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//incubator/symbian/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//incubator/taskfox/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n/compare-locales/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n/l20n/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n/silme/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ach/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/af/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ak/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ar/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/as/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ast/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/be/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/bg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/bn-BD/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/bn-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/br/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/bs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ca/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/cs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/cy/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/da/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/de/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/el/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/en-GB/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/en-ZA/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/eo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/es-AR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/es-CL/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/es-ES/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/es-MX/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/et/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/eu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/fa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ff/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/fi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/fr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/fy-NL/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ga-IE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/gd/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/gl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/gu-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/he/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/hi-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/hr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/hu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/hy-AM/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/id/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/is/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/it/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ja/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ja-JP-mac/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ka/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/kk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/km/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/kn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ko/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ku/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/lg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/lij/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/lt/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/lv/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/mai/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/mk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ml/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/mn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/mr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ms/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/my/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/nb-NO/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ne-NP/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/nl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/nn-NO/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/nr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/nso/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/oc/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/or/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/pa-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/pl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/pt-BR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/pt-PT/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/rm/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ro/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ru/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/rw/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/si/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/sk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/sl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/son/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/sq/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/sr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ss/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/st/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/sv-SE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ta/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ta-LK/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/te/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/th/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/tn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/tr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ts/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/uk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/ve/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/vi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/wo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/x-testing/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/xh/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/zh-CN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/zh-TW/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//l10n-central/zu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/af/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/am/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ar/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/as/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ast/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/be/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/bg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/bm/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/bn-BD/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/bn-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/br/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/bs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ca/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/cs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/cy/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/da/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/de/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/dsb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ee/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/el/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/en-GB/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/en-US/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/eo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/es/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/et/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/eu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/fa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ff/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/fi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/fr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/fy-NL/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ga-IE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/gd/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/gl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/gu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ha/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/he/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/hi-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/hr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/hsb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ht/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/hu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/hy-AM/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/id/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ig/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/it/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ja/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/km/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/kn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ko/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/lg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/lij/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ln/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/lt/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/lv/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/mai/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/mg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/mk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ml/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/mr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ms/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/my/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/nb-NO/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ne-NP/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/nl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/or/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/pa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/pl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/pt-BR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/pt-PT/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ro/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ru/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/si/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/sk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/sl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/son/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/sq/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/sr-Cyrl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/sr-Latn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/sv-SE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/sw/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ta/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/te/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/th/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/tl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/tn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/tr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/uk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/ur/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/vi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/wo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/xh/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/yo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/zam/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/zh-CN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/zh-TW/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//gaia-l10n/zu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/bespin/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/bespinclient/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/bespinjavaserver/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/bespinserver/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/jetpack/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/jetpack-sdk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/jsmodules/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/people/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/personas/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/raindrop/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/raindrop-dev/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/sigma/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/skywriter/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/snowl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/tabcandy/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/testpilot/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/testpilot-analysis/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/testpilotweb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/th/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/vapour/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/weave-backup/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/weave-identity/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/weaveclient-python/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/weaveserver-identity/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/weaveserver-obsolote/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/weaveserver-openid/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/weaveweb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//labs/webfinger-addon/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/2007-configure-rewrite/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/Moz2D/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/accessibility/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/addon-sdk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/addon-sdk-beta/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/addon-sdk-jetperf-tests/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/addon-sdk-release/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/addonsmgr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/alder/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/ash/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/birch/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/build-system/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/cedar/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/collusion/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/cypress/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/date/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/dxr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/electrolysis/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/elm/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/emscripten/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/fig/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/firefox-lorentz/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/graphics/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/graphics-old/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/gum/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/holly/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/htmlparser/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/ionmonkey/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/jamun/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/jss/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/kraken/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/larch/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/ldap-sdks/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/maple/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/mccoy/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/metro/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/nspr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/nss/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/nss-try/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/oak/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/pine/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/places/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/private-browsing/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/profiling/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/python-nss/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/ux/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//projects/webcl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//qa/coverage/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//qa/maemkit/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//qa/mozmill-automation/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//qa/mozmill-tests/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//qa/puppet/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//qa/test-agent/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//qa/testcase-data/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//qa/tunit-analysis/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/autoland/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/b2g-inbound/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/fx-team/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-1_0_0/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-1_0_1/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-1_1_0/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-1_1_0_hd/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-1_2/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-1_2f/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-1_3/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-1_3t/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-1_4/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-2_0/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-2_1/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-2_1s/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-2_2/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-2_2r/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-2_5/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-b2g-ota/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-central/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-nightly/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-shira/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-try/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/gaia-v1-train/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//integration/mozilla-inbound/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/b2g-ota/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/comm-aurora/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/comm-beta/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/comm-esr10/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/comm-esr17/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/comm-esr24/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/comm-esr31/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/comm-esr38/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/comm-esr45/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/comm-release/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/firefox-hotfixes/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mobile-5.0/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-1.9.1/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-1.9.2/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-2.0/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-2.1/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-aurora/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-beta/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g18/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g18_v1_0_0/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g18_v1_0_1/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g18_v1_1_0/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g18_v1_1_0_hd/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g26_v1_2/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g26_v1_2f/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g28_v1_3/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g28_v1_3t/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g30_v1_4/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g32_v2_0/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g32_v2_0m/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g34_v2_1/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g34_v2_1s/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g37_v2_2/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g37_v2_2r/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-b2g44_v2_5/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-esr10/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-esr17/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-esr24/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-esr31/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-esr38/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-esr45/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-release/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-mobile-5.0/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mozilla-mobile-6.0/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/mobile-6.0/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/ar/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/bg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/bn-BD/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/ca/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/cs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/de/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/el/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/en-US/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/es/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/fr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/hr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/hu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/it/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/mk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/nl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/pl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/pt-BR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/ro/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/ru/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/sk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/sr-Cyrl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/sr-Latn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/tr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/zh-CN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_2/zh-TW/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/ar/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/bg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/bn-BD/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/ca/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/cs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/de/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/el/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/en-US/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/es/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/fr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/hr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/hu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/it/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/mk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/nl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/pl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/pt-BR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/ro/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/ru/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/sk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/sr-Cyrl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/sr-Latn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/tr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/zh-CN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_3/zh-TW/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/ar/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/as/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/ast/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/be/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/bg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/bn-BD/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/bn-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/bs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/ca/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/cs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/cy/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/da/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/de/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/el/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/en-GB/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/en-US/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/eo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/es/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/et/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/eu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/fa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/ff/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/fr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/fy-NL/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/ga-IE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/gd/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/gl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/gu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/he/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/hi-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/hr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/ht/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/hu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/id/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/it/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/ja/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/km/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/kn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/ko/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/lij/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/lt/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/mk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/ml/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/mr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/ms/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/nb-NO/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/ne-NP/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/nl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/or/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/pa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/pl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/pt-BR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/ro/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/ru/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/si/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/sk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/sl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/sq/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/sr-Cyrl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/sr-Latn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/sv-SE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/ta/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/te/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/th/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/tr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/ur/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/vi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/xh/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/zh-CN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v1_4/zh-TW/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/af/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ar/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/as/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ast/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/be/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/bg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/bn-BD/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/bn-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/bs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ca/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/cs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/cy/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/da/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/de/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ee/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/el/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/en-GB/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/en-US/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/eo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/es/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/et/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/eu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ff/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/fr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/fy-NL/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ga-IE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/gd/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/gl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/gu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ha/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/he/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/hi-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/hr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ht/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/hu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/id/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ig/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/it/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ja/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/km/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/kn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ko/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/lg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/lij/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ln/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/lt/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/mai/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/mk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ml/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/mr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ms/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/my/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/nb-NO/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ne-NP/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/nl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/or/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/pa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/pl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/pt-BR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ro/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ru/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/si/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/sk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/sl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/son/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/sq/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/sr-Cyrl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/sr-Latn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/sv-SE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/sw/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ta/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/te/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/th/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/tn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/tr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/ur/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/vi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/wo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/xh/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/yo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/zh-CN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/zh-TW/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_0/zu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/af/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ar/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/as/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ast/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/be/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/bg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/bn-BD/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/bn-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/br/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/bs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ca/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/cs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/cy/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/da/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/de/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ee/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/el/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/en-GB/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/en-US/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/eo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/es/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/et/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/eu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/fa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ff/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/fi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/fr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/fy-NL/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ga-IE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/gd/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/gl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/gu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ha/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/he/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/hi-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/hr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ht/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/hu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/hy-AM/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/id/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ig/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/it/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ja/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/km/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/kn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ko/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/lg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/lij/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ln/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/lt/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/mai/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/mk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ml/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/mr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ms/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/my/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/nb-NO/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ne-NP/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/nl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/or/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/pa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/pl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/pt-BR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/pt-PT/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ro/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ru/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/si/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/sk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/sl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/son/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/sq/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/sr-Cyrl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/sr-Latn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/sv-SE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/sw/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ta/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/te/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/th/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/tl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/tn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/tr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/ur/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/vi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/wo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/xh/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/yo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/zh-CN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/zh-TW/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_1/zu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/af/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/am/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ar/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/as/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ast/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/be/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/bg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/bm/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/bn-BD/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/bn-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/br/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/bs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ca/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/cs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/cy/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/da/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/de/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/dsb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ee/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/el/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/en-GB/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/en-US/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/eo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/es/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/et/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/eu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/fa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ff/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/fi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/fr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/fy-NL/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ga-IE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/gd/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/gl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/gu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ha/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/he/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/hi-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/hr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/hsb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ht/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/hu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/hy-AM/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/id/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ig/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/it/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ja/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/km/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/kn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ko/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/lg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/lij/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ln/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/lt/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/lv/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/mai/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/mg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/mk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ml/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/mr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ms/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/my/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/nb-NO/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ne-NP/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/nl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/or/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/pa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/pl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/pt-BR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/pt-PT/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ro/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ru/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/si/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/sk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/sl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/son/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/sq/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/sr-Cyrl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/sr-Latn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/sv-SE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/sw/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ta/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/te/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/th/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/tl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/tn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/tr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/uk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/ur/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/vi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/wo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/xh/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/yo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/zam/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/zh-CN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/zh-TW/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_2/zu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/af/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/am/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ar/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/as/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ast/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/be/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/bg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/bm/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/bn-BD/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/bn-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/br/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/bs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ca/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/cs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/cy/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/da/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/de/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/dsb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ee/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/el/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/en-GB/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/en-US/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/eo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/es/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/et/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/eu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/fa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ff/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/fi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/fr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/fy-NL/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ga-IE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/gd/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/gl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/gu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ha/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/he/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/hi-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/hr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/hsb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ht/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/hu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/hy-AM/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/id/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ig/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/it/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ja/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/km/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/kn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ko/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/lg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/lij/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ln/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/lt/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/lv/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/mai/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/mg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/mk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ml/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/mr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ms/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/my/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/nb-NO/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ne-NP/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/nl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/or/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/pa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/pl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/pt-BR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/pt-PT/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ro/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ru/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/si/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/sk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/sl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/son/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/sq/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/sr-Cyrl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/sr-Latn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/sv-SE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/sw/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ta/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/te/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/th/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/tl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/tn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/tr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/uk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/ur/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/vi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/wo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/xh/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/yo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/zam/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/zh-CN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/zh-TW/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/gaia-l10n/v2_5/zu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ach/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/af/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ak/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/an/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ar/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/as/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ast/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/az/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/be/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/bg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/bn-BD/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/bn-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/br/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/brx/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/bs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ca/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/cak/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/cs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/csb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/cy/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/da/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/de/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/dsb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/el/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/en-GB/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/en-ZA/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/eo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/es-AR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/es-CL/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/es-ES/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/es-MX/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/et/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/eu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/fa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ff/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/fi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/fr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/fy-NL/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ga-IE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/gd/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/gl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/gn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/gu-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/he/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/hi-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/hr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/hsb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/hto/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/hu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/hy-AM/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/id/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/is/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/it/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ja/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ja-JP-mac/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ka/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/kab/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/kk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/km/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/kn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ko/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/kok/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ks/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ku/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/lg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/lij/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/lo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/lt/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ltg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/lv/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/mai/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/mk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ml/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/mn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/mr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ms/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/my/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/nb-NO/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ne-NP/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/nl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/nn-NO/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/nr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/nso/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/oc/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/or/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/pa-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/pbb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/pl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/pt-BR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/pt-PT/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/qvi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/rm/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ro/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ru/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/rw/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/sah/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/sat/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/si/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/sk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/sl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/son/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/sq/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/sr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ss/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/st/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/sv-SE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/sw/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ta/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ta-LK/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/te/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/th/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/tl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/tn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/tr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/trs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ts/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/tsz/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/uk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ur/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/uz/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/ve/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/vi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/wo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/x-testing/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/xh/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/zh-CN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/zh-TW/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-aurora/zu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ach/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/af/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ak/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/an/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ar/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/as/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ast/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/az/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/be/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/bg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/bn-BD/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/bn-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/br/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/brx/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/bs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ca/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/cak/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/cs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/csb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/cy/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/da/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/de/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/dsb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/el/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/en-GB/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/en-ZA/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/eo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/es-AR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/es-CL/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/es-ES/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/es-MX/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/et/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/eu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/fa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ff/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/fi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/fr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/fy-NL/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ga-IE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/gd/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/gl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/gn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/gu-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/he/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/hi-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/hr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/hsb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/hto/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/hu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/hy-AM/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/id/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/is/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/it/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ja/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ja-JP-mac/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ka/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/kab/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/kk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/km/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/kn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ko/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/kok/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ks/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ku/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/lg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/lij/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/lo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/lt/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ltg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/lv/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/mai/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/mk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ml/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/mn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/mr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ms/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/my/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/nb-NO/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ne-NP/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/nl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/nn-NO/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/nr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/nso/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/oc/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/or/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/pa-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/pbb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/pl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/pt-BR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/pt-PT/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/qvi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/rm/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ro/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ru/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/rw/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/sah/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/sat/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/si/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/sk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/sl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/son/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/sq/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/sr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ss/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/st/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/sv-SE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/sw/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ta/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ta-LK/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/te/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/th/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/tl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/tn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/tr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/trs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ts/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/tsz/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/uk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ur/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/uz/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/ve/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/vi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/wo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/x-testing/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/xh/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/zh-CN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/zh-TW/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-beta/zu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ach/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/af/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ak/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/an/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ar/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/as/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ast/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/az/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/be/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/bg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/bn-BD/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/bn-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/br/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/brx/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/bs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ca/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/cak/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/cs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/csb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/cy/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/da/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/de/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/dsb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/el/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/en-GB/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/en-ZA/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/eo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/es-AR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/es-CL/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/es-ES/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/es-MX/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/et/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/eu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/fa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ff/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/fi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/fr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/fy-NL/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ga-IE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/gd/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/gl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/gn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/gu-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/he/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/hi-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/hr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/hsb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/hto/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/hu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/hy-AM/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/id/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/is/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/it/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ja/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ja-JP-mac/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ka/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/kab/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/kk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/km/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/kn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ko/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/kok/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ks/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ku/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/lg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/lij/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/lo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/lt/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ltg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/lv/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/mai/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/mk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ml/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/mn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/mr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ms/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/my/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/nb-NO/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ne-NP/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/nl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/nn-NO/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/nr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/nso/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/oc/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/or/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/pa-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/pbb/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/pl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/pt-BR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/pt-PT/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/qvi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/rm/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ro/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ru/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/rw/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/sah/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/sat/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/si/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/sk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/sl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/son/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/sq/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/sr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ss/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/st/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/sv-SE/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/sw/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ta/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ta-LK/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/te/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/th/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/tl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/tn/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/tr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/trs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ts/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/tsz/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/uk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ur/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/uz/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/ve/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/vi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/wo/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/x-testing/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/xh/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/zh-CN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/zh-TW/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//releases/l10n/mozilla-release/zu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//rewriting-and-analysis/callgraph/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//rewriting-and-analysis/dehydra/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//rewriting-and-analysis/elsa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//rewriting-and-analysis/oink-stack/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//rewriting-and-analysis/pork/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//rewriting-and-analysis/pork-barrel/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//rewriting-and-analysis/stack-scripts/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//SeaMonkey/puppet/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//SeaMonkey/seamonkey-project-org/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//SeaMonkey/tools/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/account-portal/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/appkeys/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/cef/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/deprecated/admin-scripts/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/deprecated/dashboard/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/deprecated/fx-sync/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/deprecated/fx-sync-tools/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/deprecated/internal_dash/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/deprecated/minimal-server/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/deprecated/reg-server/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/deprecated/reg-server-secure/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/deprecated/sync-server/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/docs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/fx-home/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/loadtest/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/server-core/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/server-devtools/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/server-full/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/server-identity/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/server-key-exchange/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/server-node-assignment/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/server-reg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/server-sreg/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/server-storage/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/services-central/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//services/tps/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/ar/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/be/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/ca/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/cs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/da/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/de/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/el/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/en-US/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/es-AR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/es-CL/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/es-ES/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/fa/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/fi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/fr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/fy-NL/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/gl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/he/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/hu/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/id/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/it/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/ja/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/ja-JP-mac/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/ko/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/lt/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/nl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/pa-IN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/pl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/pt-BR/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/pt-PT/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/ro/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/ru/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/si/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/sk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/sl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/sq/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/sr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/tr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/uk/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/vi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/zh-CN/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//weave-l10n/zh-TW/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//webtools/bzapi/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//webtools/despot/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//webtools/dxr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//webtools/litmus/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//webtools/mcs/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//webtools/mxr/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//webtools/nightly/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//webtools/reviewboard/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//webtools/tbpl/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//webtools/telemetry-experiment-server/"
+                },
+                {
+                    "url": "hg::http://hg.mozilla.org//contribute.mozilla.org/"
                 }
             ],
-            "github":[
+            "github": [
                 {
                     "url": "https://github.com/mozilla/redis-centos"
                 },
@@ -8483,6 +12676,10 @@
                     "url": "https://github.com/mozilla/telemetry-batch-view"
                 }
             ],
+            "mailing_lists": [],
+            "parent_project": [],
+            "releases": [],
+            "source_repo": [],
             "title": "mozilla",
             "wiki_url": []
         },
@@ -8507,10 +12704,6 @@
             "gerrit_repo": [
                 {}
             ],
-            "mailing_lists": [],
-            "parent_project": [],
-            "releases": [],
-	"source_repo": [],
             "git": [
                 {
                     "url": "https://github.com/rust-lang/gedit-config.git"
@@ -8609,7 +12802,7 @@
                     "url": "https://github.com/rust-lang/rust-wiki-backup.git"
                 }
             ],
-            "github":[
+            "github": [
                 {
                     "url": "https://github.com/rust-lang/gedit-config"
                 },
@@ -8707,6 +12900,10 @@
                     "url": "https://github.com/rust-lang/rust-wiki-backup"
                 }
             ],
+            "mailing_lists": [],
+            "parent_project": [],
+            "releases": [],
+            "source_repo": [],
             "title": "rust-lang",
             "wiki_url": []
         },
@@ -8731,10 +12928,6 @@
             "gerrit_repo": [
                 {}
             ],
-            "mailing_lists": [],
-            "parent_project": [],
-            "releases": [],
-	"source_repo": [],
             "git": [
                 {
                     "url": "https://github.com/servo/servo-viewer.git"
@@ -9073,7 +13266,7 @@
                     "url": "https://github.com/servo/string-cache.git"
                 }
             ],
-            "github":[
+            "github": [
                 {
                     "url": "https://github.com/servo/servo-viewer"
                 },
@@ -9411,6 +13604,10 @@
                     "url": "https://github.com/servo/string-cache"
                 }
             ],
+            "mailing_lists": [],
+            "parent_project": [],
+            "releases": [],
+            "source_repo": [],
             "title": "servo",
             "wiki_url": []
         }
