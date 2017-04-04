@@ -1,4 +1,23 @@
 {
+    "unknown": {
+        "discourse": [
+            "https://discourse.mozilla-community.org/"
+        ],
+        "mediawiki":[
+            "https://wiki.mozilla.org"
+        ],
+        "mozillaclub": [
+            "https://spreadsheets.google.com/feeds/cells/1QHl2bjBhMslyFzR5XXPzMLdzzx7oeSKTbgR5PM8qp64/ohaibtm/public/values?alt=json"
+        ],
+        "nntp":[
+        ],
+        "remo": [
+            "https://reps.mozilla.org"
+        ],
+        "twitter": [
+            ""
+        ]
+    },
     "MozVR": {
         "git": [
             "https://github.com/MozVR/gamepad-plus.git",
