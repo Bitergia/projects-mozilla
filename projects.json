@@ -1,5 +1,8 @@
 {
     "unknown": {
+        "bugzillarest": [
+            "https://bugzilla.mozilla.org"
+        ],
         "discourse": [
             "https://discourse.mozilla-community.org/"
         ],
