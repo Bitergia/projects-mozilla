@@ -1,0 +1,13 @@
+{
+    "Rust": {
+        "git": [
+            "https://github.com/rust-lang/rfcs.git",
+            "https://github.com/rust-lang/rust.git"
+        ],
+        "github": [
+            "https://github.com/rust-lang/rfcs",
+            "https://github.com/rust-lang/rust"
+        ],
+        "meta": "rust"
+    }
+}
