@@ -6396,5 +6396,25 @@
             "https://github.com/aframevr/slackoverflow"
         ],
         "meta": "webvr"
+    },
+    "unknown": {
+        "bugzillarest": [
+            "https://bugzilla.mozilla.org"
+        ],
+        "discourse": [
+            "https://discourse.mozilla-community.org/"
+        ],
+        "mediawiki": [
+            "https://wiki.mozilla.org"
+        ],
+        "mozillaclub": [
+            "https://spreadsheets.google.com/feeds/cells/1QHl2bjBhMslyFzR5XXPzMLdzzx7oeSKTbgR5PM8qp64/ohaibtm/public/values?alt=json"
+        ],
+        "remo": [
+        "https://reps.mozilla.org"
+        ],
+        "twitter": [
+            ""
+        ]
     }
 }
