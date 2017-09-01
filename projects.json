@@ -2231,6 +2231,7 @@
             "https://github.com/mozilla/Reps.git",
             "https://github.com/mozilla/community-development.git",
             "https://github.com/mozilla/community-spaces.git",
+            "https://github.com/mozilla/firefox57-sprint.git",
             "https://github.com/mozilla/leadership-toolkit.git",
             "https://github.com/mozilla/leadership-training.git",
             "https://github.com/mozilla/participation-curriculum.git",
@@ -2402,6 +2403,7 @@
             "https://github.com/mozilla/Reps",
             "https://github.com/mozilla/community-development",
             "https://github.com/mozilla/community-spaces",
+            "https://github.com/mozilla/firefox57-sprint",
             "https://github.com/mozilla/leadership-toolkit",
             "https://github.com/mozilla/leadership-training",
             "https://github.com/mozilla/participation-curriculum",
@@ -2725,6 +2727,7 @@
             "https://github.com/mozilla-iam/sso-dashboard-configuration.git",
             "https://github.com/mozilla-iam/sso-dashboard.git",
             "https://github.com/mozilla-parsys/mozilla-contribution-analysis.git",
+            "https://github.com/mozilla/coss.git",
             "https://github.com/mozilla/discourse-auth0-mozilla.git",
             "https://github.com/mozilla/discourse-auto-email-in.git",
             "https://github.com/mozilla/discourse-expose-emails-in.git",
@@ -2751,6 +2754,7 @@
             "https://github.com/mozilla-iam/sso-dashboard",
             "https://github.com/mozilla-iam/sso-dashboard-configuration",
             "https://github.com/mozilla-parsys/mozilla-contribution-analysis",
+            "https://github.com/mozilla/coss",
             "https://github.com/mozilla/discourse",
             "https://github.com/mozilla/discourse-auth0-mozilla",
             "https://github.com/mozilla/discourse-auto-email-in",
@@ -3258,7 +3262,10 @@
             "221",
             "222",
             "223",
-            "227"
+            "227",
+            "240",
+            "241",
+            "242"
         ],
         "git": [
             "https://github.com/bwinton/SnoozeTabs.git",
@@ -3885,6 +3892,9 @@
             "https://bugzilla.mozilla.org/bugs/buglist.cgi?product=Tree+Management&component=Visibility+Requests",
             "https://bugzilla.mozilla.org/bugs/buglist.cgi?product=Tree+Management+Graveyard&component=TBPL",
             "https://bugzilla.mozilla.org/bugs/buglist.cgi?product=mozillaignite&component=General"
+        ],
+        "discourse": [
+            "https://discourse.mozilla.org/"
         ],
         "git": [
             "https://github.com/Mozilla-TWQA/Hasal.git",
@@ -6178,7 +6188,6 @@
             "https://github.com/mozilla/cardano.git",
             "https://github.com/mozilla/community.openbadges.org.git",
             "https://github.com/mozilla/content-2012.mozillafestival.org.git",
-            "https://github.com/mozilla/coss.git",
             "https://github.com/mozilla/csp-logger.git",
             "https://github.com/mozilla/django-badger.git",
             "https://github.com/mozilla/django-browserid.git",
@@ -6287,7 +6296,6 @@
             "https://github.com/mozilla/cardano",
             "https://github.com/mozilla/community.openbadges.org",
             "https://github.com/mozilla/content-2012.mozillafestival.org",
-            "https://github.com/mozilla/coss",
             "https://github.com/mozilla/csp-logger",
             "https://github.com/mozilla/django-badger",
             "https://github.com/mozilla/django-browserid",
