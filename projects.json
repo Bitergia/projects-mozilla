@@ -2982,6 +2982,9 @@
             "https://github.com/rust-lang/subteams",
             "https://github.com/rust-lang/zsh-config"
         ],
+        "stackexchange": [
+          "http://stackoverflow.com/questions/tagged/rust"
+        ],
         "meta": "rust"
     },
     "Servo": {
@@ -6448,6 +6451,9 @@
             "https://github.com/aframevr/awesome-aframe",
             "https://github.com/aframevr/sample-assets",
             "https://github.com/aframevr/slackoverflow"
+        ],
+        "stackexchange": [
+          "http://stackoverflow.com/questions/tagged/aframe"
         ],
         "meta": "webvr"
     }
