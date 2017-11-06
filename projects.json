@@ -485,6 +485,11 @@
         "git": [
             "https://github.com/Mozilla-TWQA/B2G-flash-tool.git",
             "https://github.com/Mozilla-TWQA/Gaiatest-Reports.git",
+            "https://github.com/mozilla-b2g/B2G.git",
+            "https://github.com/mozilla-b2g/Gaia-UI-Building-Blocks.git",
+            "https://github.com/mozilla-b2g/gaia.git",
+            "https://github.com/mozilla-b2g/gonk-misc.git",
+            "https://github.com/mozilla-b2g/moztt.git",
             "https://github.com/mozilla/Marketplace.PHP.git",
             "https://github.com/mozilla/Marketplace.Python.git",
             "https://github.com/mozilla/b2ghaystack.git",
@@ -513,6 +518,11 @@
         "github": [
             "https://github.com/Mozilla-TWQA/B2G-flash-tool",
             "https://github.com/Mozilla-TWQA/Gaiatest-Reports",
+            "https://github.com/mozilla-b2g/B2G",
+            "https://github.com/mozilla-b2g/Gaia-UI-Building-Blocks",
+            "https://github.com/mozilla-b2g/gaia",
+            "https://github.com/mozilla-b2g/gonk-misc",
+            "https://github.com/mozilla-b2g/moztt",
             "https://github.com/mozilla/Marketplace.PHP",
             "https://github.com/mozilla/Marketplace.Python",
             "https://github.com/mozilla/b2ghaystack",
@@ -2708,6 +2718,9 @@
         ]
     },
     "Open Innovation": {
+        "discourse": [
+            "192"
+        ],
         "git": [
             "https://github.com/mozilla/innovation-toolkit.git",
             "https://github.com/mozilla/voice-web.git"
@@ -2719,6 +2732,9 @@
         "meta": "open innovation"
     },
     "Participation Systems": {
+        "discourse": [
+            "142"
+        ],
         "git": [
             "https://github.com/mozilla-iam/auth0-deploy.git",
             "https://github.com/mozilla-iam/cis.git",
@@ -2982,10 +2998,139 @@
             "https://github.com/rust-lang/subteams",
             "https://github.com/rust-lang/zsh-config"
         ],
-        "stackexchange": [
-          "http://stackoverflow.com/questions/tagged/rust"
+        "meetup": [
+            "Babel-Fish-meetup",
+            "Belgium-Rust-user-group",
+            "Blockchain-Meetup-Freiburg",
+            "Boston-Embedded-Systems-Meetup",
+            "BostonRust",
+            "C-C-Bangalore-Meetup",
+            "Cambridge-Rust-Meetup",
+            "Cebu-Rust-Camp",
+            "Chicago-Rust-Meetup",
+            "Curitiba-Funcional",
+            "De-Central-Budapest",
+            "Desert-Rustaceans",
+            "FLISoL2017Toluca",
+            "Fagkvelder-Itera",
+            "Finland-Rust-Meetup",
+            "FullStackVegas",
+            "Functional-Programmers-YYC",
+            "Go-East-Bay",
+            "Haarlem-Rust-Meetup",
+            "Johannesburg-Rust-Meetup",
+            "LLVM-Clang-social",
+            "Lambda-Jakarta",
+            "Meetup-Rust-Lyon",
+            "Montreal-Rust-Language-Meetup",
+            "Mozilla-Community-Dresden",
+            "Mozilla-Delhi",
+            "Mozilla-Hyderabad",
+            "Mozilla-Korea-Community",
+            "Mozilla-Philippines-Community",
+            "Mozilla-Wien",
+            "MozillaIndia",
+            "Ottawa-Rust-Language-Meetup",
+            "PDXRust",
+            "Pittsburgh-Code-Supply",
+            "Pittsburgh-Functional-Programming-Meetup",
+            "Pune-Mozilla-Meetup",
+            "RUST-SG",
+            "Rust-%D0%B2-%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B5",
+            "Rust-%D0%B2-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5",
+            "Rust-%D0%B2-%D0%9F%D0%B8%D1%82%D0%B5%D1%80%D0%B5",
+            "Rust-ATL",
+            "Rust-Amsterdam",
+            "Rust-BH",
+            "Rust-Barcelona",
+            "Rust-Bay-Area",
+            "Rust-Belfast-Meetup",
+            "Rust-Berlin",
+            "Rust-Boulder-Denver",
+            "Rust-Brisbane",
+            "Rust-Chile",
+            "Rust-Dublin",
+            "Rust-FVG-Meetup",
+            "Rust-Floripa",
+            "Rust-Hack-Learn-Karlsruhe",
+            "Rust-Hungary-Meetup",
+            "Rust-Hyderabad",
+            "Rust-Krakow",
+            "Rust-London-User-Group",
+            "Rust-Los-Angeles",
+            "Rust-MX",
+            "Rust-Meetup-Hamburg",
+            "Rust-Melbourne",
+            "Rust-Modern-Systems-Programming-in-Leipzig",
+            "Rust-NYC",
+            "Rust-Nairobi",
+            "Rust-North",
+            "Rust-Oslo",
+            "Rust-Paris",
+            "Rust-RN",
+            "Rust-Rhein-Main",
+            "Rust-Roma",
+            "Rust-Sao-Paulo-Meetup",
+            "Rust-Seoul",
+            "Rust-Sydney",
+            "Rust-TC",
+            "Rust-Tampa",
+            "Rust-Toronto",
+            "Rust-Uruguay",
+            "Rust-Utrecht",
+            "Rust-Vegas",
+            "Rust-Warsaw",
+            "Rust-Zurich",
+            "Rust-in-POA",
+            "Rust-in-Vilnius",
+            "Rust-luxembourg",
+            "Rust-meetup-nantes",
+            "Rust-the-new-C-C",
+            "RustCologne",
+            "RustDC",
+            "RustNY",
+            "RustSchool-Rotterdam",
+            "San-Diego-Rust",
+            "Seattle-Rust-Meetup",
+            "Singapore-Rust-Meetup",
+            "South-Florida-Rust-Meetup",
+            "Tokyo-Rust-Meetup",
+            "Vancouver-Rust",
+            "Wellington-Rust-Meetup",
+            "codeselfstudy",
+            "columbus-rs",
+            "devcamppl",
+            "lambdazagreb",
+            "mad-rs",
+            "mozillatn",
+            "oc-rust",
+            "rust-detroit",
+            "rust-edi",
+            "rust-lagos",
+            "rust-language-milano",
+            "rust-lille",
+            "rust-munich",
+            "rust-prague",
+            "rustlangmx",
+            "rustlodz",
+            "ruststhlm",
+            "web3hacklab"
         ],
-        "meta": "rust"
+        "meta": "rust",
+        "stackexchange": [
+            "http://stackoverflow.com/questions/tagged/rust"
+        ],
+        "supybot": [
+            "irc://irc.mozilla.org/rust /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust",
+            "irc://irc.mozilla.org/rust-beginners /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust-beginners",
+            "irc://irc.mozilla.org/rust-community /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust-community",
+            "irc://irc.mozilla.org/rust-dev-tools /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust-dev-tools",
+            "irc://irc.mozilla.org/rust-infra /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust-infra",
+            "irc://irc.mozilla.org/rust-internals /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust-internals",
+            "irc://irc.mozilla.org/rust-lang /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust-lang",
+            "irc://irc.mozilla.org/rust-libs /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust-libs",
+            "irc://irc.mozilla.org/rustc /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rustc"
+        ]
     },
     "Servo": {
         "git": [
@@ -3895,9 +4040,6 @@
             "https://bugzilla.mozilla.org/bugs/buglist.cgi?product=Tree+Management&component=Visibility+Requests",
             "https://bugzilla.mozilla.org/bugs/buglist.cgi?product=Tree+Management+Graveyard&component=TBPL",
             "https://bugzilla.mozilla.org/bugs/buglist.cgi?product=mozillaignite&component=General"
-        ],
-        "discourse": [
-            "https://discourse.mozilla.org/"
         ],
         "git": [
             "https://github.com/Mozilla-TWQA/Hasal.git",
@@ -6452,9 +6594,26 @@
             "https://github.com/aframevr/sample-assets",
             "https://github.com/aframevr/slackoverflow"
         ],
+        "meta": "webvr",
         "stackexchange": [
-          "http://stackoverflow.com/questions/tagged/aframe"
+            "http://stackoverflow.com/questions/tagged/aframe"
+        ]
+    },
+    "unknown": {
+        "bugzillarest": [
+            "https://bugzilla.mozilla.org"
         ],
-        "meta": "webvr"
+        "discourse": [
+            "https://discourse.mozilla.org/"
+        ],
+        "mediawiki": [
+            "https://wiki.mozilla.org"
+        ],
+        "mozillaclub": [
+            "https://spreadsheets.google.com/feeds/cells/1QHl2bjBhMslyFzR5XXPzMLdzzx7oeSKTbgR5PM8qp64/ohaibtm/public/values?alt=json"
+        ],
+        "remo": [
+            "https://reps.mozilla.org"
+        ]
     }
 }
