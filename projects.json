@@ -199,12 +199,18 @@
             "https://bugzilla.mozilla.org/bugs/buglist.cgi?product=Firefox&component=Developer+Tools:+about:debugging"
         ],
         "git": [
+            "https://github.com/devtools-html/debugger.html/.git",
+            "https://github.com/devtools-html/devtools-core.git",
+            "https://github.com/devtools-html/perf.html.git",
             "https://github.com/mozilla/devtools-docs.git",
             "https://github.com/mozilla/devtools-perf-game.git",
             "https://github.com/mozilla/devtools-reqs.git",
             "https://github.com/mozilla/devtools.git"
         ],
         "github": [
+            "https://github.com/devtools-html/debugger.html/",
+            "https://github.com/devtools-html/devtools-core",
+            "https://github.com/devtools-html/perf.html",
             "https://github.com/mozilla/devtools",
             "https://github.com/mozilla/devtools-docs",
             "https://github.com/mozilla/devtools-perf-game",
@@ -5952,6 +5958,20 @@
         "bugzilla": [
             "https://bugzilla.mozilla.org/bugs/buglist.cgi?product=Web+Compatibility&component=General",
             "https://bugzilla.mozilla.org/bugs/buglist.cgi?product=Web+Compatibility&component=Go+Faster"
+        ],
+        "git": [
+            "https://github.com/webcompat/css-fixme.git",
+            "https://github.com/webcompat/design.git",
+            "https://github.com/webcompat/web-bugs.git",
+            "https://github.com/webcompat/webcompat-reporter-extensions.git",
+            "https://github.com/webcompat/webcompat.com.git"
+        ],
+        "github": [
+            "https://github.com/webcompat/css-fixme",
+            "https://github.com/webcompat/design",
+            "https://github.com/webcompat/web-bugs",
+            "https://github.com/webcompat/webcompat-reporter-extensions",
+            "https://github.com/webcompat/webcompat.com"
         ],
         "meta": "web compatibility",
         "nntp": [
