@@ -6623,6 +6623,9 @@
         "bugzillarest": [
             "https://bugzilla.mozilla.org"
         ],
+        "crates": [
+            ""
+        ],
         "discourse": [
             "https://discourse.mozilla.org/"
         ],
