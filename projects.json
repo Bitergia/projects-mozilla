@@ -1,6 +1,6 @@
 {
     "Addons/Web Extensions": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Add-on+SDK&component=Documentation",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Add-on+SDK&component=General",
             "https://bugzilla.mozilla.org/buglist.cgi?product=addons.mozilla.org&component=Security",
@@ -86,7 +86,7 @@
         ]
     },
     "Advocacy and policy": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Internet+Public+Policy&component=General",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Internet+Public+Policy&component=Internet+Governance",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Internet+Public+Policy&component=Net+Neutrality",
@@ -132,7 +132,7 @@
         "meta": "campus clubs (previously student ambassadors)"
     },
     "Connected devices & IoT": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Connected+Devices&component=Project+Link",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Connected+Devices&component=Project+Sensor+Web",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Connected+Devices&component=Project+SmartKitchen"
@@ -172,7 +172,7 @@
         "meta": "deep speech"
     },
     "Developer Tools": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Firefox&component=Developer+Tools:+Animation+Inspector",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Firefox&component=Developer+Tools:+CSS+Rules+Inspector",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Firefox&component=Developer+Tools:+Canvas+Debugger",
@@ -222,7 +222,7 @@
         ]
     },
     "Firefox": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Firefox&component=Activity+Streams:+Application+Servers",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Firefox&component=Activity+Streams:+General",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Firefox&component=Activity+Streams:+Newtab",
@@ -293,7 +293,7 @@
         "meta": "firefox"
     },
     "Firefox Android": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Fennec+Graveyard&component=Bookmarks",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Fennec+Graveyard&component=Extension+Compatibility",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Fennec+Graveyard&component=General",
@@ -343,7 +343,7 @@
         "meta": "firefox android"
     },
     "Firefox Focus": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Focus&component=General"
         ],
         "git": [
@@ -357,7 +357,7 @@
         "meta": "firefox focus"
     },
     "Firefox OS (FxOS / B2G)": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=B2GDroid+Graveyard&component=General",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Boot2Gecko+Graveyard&component=Gaia::Calculator",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Firefox+OS&component=AudioChannel",
@@ -568,7 +568,7 @@
         ]
     },
     "Firefox Student Ambassadors": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=FSA&component=Budget+Requests"
         ],
         "discourse": [
@@ -581,7 +581,7 @@
         "meta": "firefox student ambassadors"
     },
     "Firefox iOS": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Firefox+for+iOS&component=Browser",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Firefox+for+iOS&component=Build+&+Test",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Firefox+for+iOS&component=Data+Storage",
@@ -615,7 +615,7 @@
         "meta": "firefox ios"
     },
     "Gecko": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Core&component=Audio/Video",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Core&component=Audio/Video:+GMP",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Core&component=Audio/Video:+MediaStreamGraph",
@@ -891,7 +891,7 @@
         "meta": "gecko"
     },
     "IT/Ops": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Air+Mozilla&component=BigBlueButton",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Air+Mozilla&component=Community",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Air+Mozilla&component=Content",
@@ -1499,7 +1499,7 @@
         "meta": "it/ops"
     },
     "Localization": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=L20n&component=Evangelism",
             "https://bugzilla.mozilla.org/buglist.cgi?product=L20n&component=Gaia+Bindings",
             "https://bugzilla.mozilla.org/buglist.cgi?product=L20n&component=General",
@@ -1725,7 +1725,7 @@
         ]
     },
     "Marketing / Social Media": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Firefox+Affiliates+Graveyard&component=Social+Integration",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Firefox+Affiliates+Graveyard&component=affiliates.mozilla.org",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Firefox+Affiliates+Graveyard&component=affiliates.mozilla.org+banners",
@@ -1816,7 +1816,7 @@
         "meta": "mozilla clubs"
     },
     "Mozilla Creative & Design": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Marketing&component=Design"
         ],
         "git": [
@@ -1832,7 +1832,7 @@
         "meta": "mozilla creative & design"
     },
     "Mozilla Developer Network (MDN)": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Developer+Documentation&component=API:+CSSOM",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Developer+Documentation&component=API:+DOM",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Developer+Documentation&component=API:+Device+API",
@@ -2007,7 +2007,7 @@
         ]
     },
     "Mozilla Foundation": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Mozilla+Foundation&component=Metrics",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Mozilla+Foundation+Communications&component=Blog",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Mozilla+Foundation+Communications&component=CRM",
@@ -2126,7 +2126,7 @@
         ]
     },
     "Mozilla Local/Regional communities": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Community+Building&component=Contribute",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Community+Building&component=Education+and+Culture",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Community+Building&component=Events",
@@ -2725,7 +2725,7 @@
         "meta": "mozilla science"
     },
     "Mozilla support (SUMO)": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=support.mozilla.org+-+Lithium&component=Ask+a+Question+Workflow",
             "https://bugzilla.mozilla.org/buglist.cgi?product=support.mozilla.org+-+Lithium&component=Contributor+and+Question+Forums",
             "https://bugzilla.mozilla.org/buglist.cgi?product=support.mozilla.org+-+Lithium&component=Feature+request",
@@ -2828,7 +2828,7 @@
         "meta": "participation systems"
     },
     "Quality Assurance": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Mozilla+QA&component=Case+Conductor-Platform",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Mozilla+QA&component=General",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Mozilla+QA&component=Infrastructure",
@@ -2905,7 +2905,7 @@
         ]
     },
     "Release engineering": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Release+Engineering&component=Balrog:+Backend",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Release+Engineering&component=Balrog:+Frontend",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Release+Engineering&component=Buildduty",
@@ -2973,7 +2973,7 @@
         "meta": "release engineering"
     },
     "Rust": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Servo&component=Rust"
         ],
         "git": [
@@ -3342,7 +3342,7 @@
         ]
     },
     "Technical/Developer Evangelism": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Developer+Engagement&component=Demo+Request",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Developer+Engagement&component=Events+Request",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Developer+Engagement&component=Material+Review+Request",
@@ -3480,7 +3480,7 @@
         "meta": "test pilot"
     },
     "Thunderbird": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=MailNews+Core&component=Account+Manager",
             "https://bugzilla.mozilla.org/buglist.cgi?product=MailNews+Core&component=Address+Book",
             "https://bugzilla.mozilla.org/buglist.cgi?product=MailNews+Core&component=Attachments",
@@ -3544,7 +3544,7 @@
         ]
     },
     "Unknown": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=AUS&component=API",
             "https://bugzilla.mozilla.org/buglist.cgi?product=AUS&component=Administration",
             "https://bugzilla.mozilla.org/buglist.cgi?product=AUS&component=General",
@@ -5981,7 +5981,7 @@
         "meta": "vaani"
     },
     "Web Compatibility": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Web+Compatibility&component=General",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Web+Compatibility&component=Go+Faster"
         ],
@@ -6005,7 +6005,7 @@
         ]
     },
     "Web Literacy": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Webmaker&component=Badges",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Webmaker&component=Communications",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Webmaker&component=Design+&+UX",
@@ -6151,7 +6151,7 @@
         ]
     },
     "Web Properties": {
-        "bugzilla": [
+        "bugzillarest": [
             "https://bugzilla.mozilla.org/buglist.cgi?product=Extend+Firefox+Graveyard&component=General",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Extend+Firefox+Graveyard&component=Web+Site",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Input&component=Backend",
