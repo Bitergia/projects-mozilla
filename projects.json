@@ -3208,6 +3208,7 @@
             "https://github.com/servo/nss.git",
             "https://github.com/servo/osmesa-src.git",
             "https://github.com/servo/pixman.git",
+            "https://github.com/servo/plane-split.git",
             "https://github.com/servo/rust-alert.git",
             "https://github.com/servo/rust-azure.git",
             "https://github.com/servo/rust-bindgen.git",
@@ -3245,8 +3246,10 @@
             "https://github.com/servo/servoexperiments.com.git",
             "https://github.com/servo/sharegl.git",
             "https://github.com/servo/skia.git",
+            "https://github.com/servo/smallbitvec.git",
             "https://github.com/servo/string-cache.git",
             "https://github.com/servo/tendril.git",
+            "https://github.com/servo/uluru.git",
             "https://github.com/servo/unicode-bidi.git",
             "https://github.com/servo/unicode-script.git",
             "https://github.com/servo/webrender.git",
@@ -3291,6 +3294,7 @@
             "https://github.com/servo/nss",
             "https://github.com/servo/osmesa-src",
             "https://github.com/servo/pixman",
+            "https://github.com/servo/plane-split",
             "https://github.com/servo/rust-alert",
             "https://github.com/servo/rust-azure",
             "https://github.com/servo/rust-bindgen",
@@ -3328,8 +3332,10 @@
             "https://github.com/servo/servoexperiments.com",
             "https://github.com/servo/sharegl",
             "https://github.com/servo/skia",
+            "https://github.com/servo/smallbitvec",
             "https://github.com/servo/string-cache",
             "https://github.com/servo/tendril",
+            "https://github.com/servo/uluru",
             "https://github.com/servo/unicode-bidi",
             "https://github.com/servo/unicode-script",
             "https://github.com/servo/webrender",
@@ -3537,6 +3543,20 @@
             "https://bugzilla.mozilla.org/buglist.cgi?product=Thunderbird&component=Theme",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Thunderbird&component=Toolbars+and+Tabs",
             "https://bugzilla.mozilla.org/buglist.cgi?product=Thunderbird&component=Untriaged"
+        ],
+        "git": [
+            "https://github.com/mozilla-comm/ical.js.git",
+            "https://github.com/thundernest/tb-website-builds.git",
+            "https://github.com/thundernest/thunderbird-notes.git",
+            "https://github.com/thundernest/thunderbird-website.git",
+            "https://github.com/thundernest/thundernest-ansible.git"
+        ],
+        "github": [
+            "https://github.com/mozilla-comm/ical.js",
+            "https://github.com/thundernest/tb-website-builds",
+            "https://github.com/thundernest/thunderbird-notes",
+            "https://github.com/thundernest/thunderbird-website",
+            "https://github.com/thundernest/thundernest-ansible"
         ],
         "meta": "thunderbird",
         "nntp": [
@@ -4929,7 +4949,10 @@
             "https://github.com/mozilla/yaocho.git",
             "https://github.com/mozilla/yogafire.git",
             "https://github.com/mozilla/zest.git",
-            "https://github.com/mozilla/zippy.git"
+            "https://github.com/mozilla/zippy.git",
+            "https://github.com/tdaede/image-compare.git",
+            "https://github.com/xiph/daala.git",
+            "https://github.com/xiph/rav1e.git"
         ],
         "github": [
             "https://github.com/Mozilla-TWQA/Hasal",
@@ -5783,7 +5806,10 @@
             "https://github.com/mozilla/yaocho",
             "https://github.com/mozilla/yogafire",
             "https://github.com/mozilla/zest",
-            "https://github.com/mozilla/zippy"
+            "https://github.com/mozilla/zippy",
+            "https://github.com/tdaede/image-compare",
+            "https://github.com/xiph/daala",
+            "https://github.com/xiph/rav1e"
         ],
         "meta": "unknown",
         "nntp": [
