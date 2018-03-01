@@ -3440,6 +3440,13 @@
             "news.mozilla.org mozilla.evangelism"
         ]
     },
+    "Test": {
+        "meta": "test",
+        "slack": [
+            "C4BN4JCR2",
+            "C5RHR9FPG"
+        ]
+    },
     "Test Pilot": {
         "discourse": [
             "174",
