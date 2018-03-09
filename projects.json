@@ -162,6 +162,19 @@
             "news.mozilla.org mozilla.dev.sensorweb"
         ]
     },
+    "Daala": {
+        "git": [
+            "https://github.com/tdaede/image-compare.git",
+            "https://github.com/xiph/daala.git",
+            "https://github.com/xiph/rav1e.git"
+        ],
+        "github": [
+            "https://github.com/tdaede/image-compare",
+            "https://github.com/xiph/daala",
+            "https://github.com/xiph/rav1e"
+        ],
+        "meta": "daala"
+    },
     "Deep Speech": {
         "git": [
             "https://github.com/mozilla/DeepSpeech.git"
@@ -2765,7 +2778,10 @@
             "https://github.com/mozilla/innovation-toolkit",
             "https://github.com/mozilla/voice-web"
         ],
-        "meta": "open innovation"
+        "meta": "open innovation",
+        "slack": [
+            "C4BN4JCR2"
+        ]
     },
     "Participation Systems": {
         "discourse": [
@@ -2825,7 +2841,10 @@
             "https://github.com/mozilla/remo",
             "https://github.com/mozilla/remo-tests"
         ],
-        "meta": "participation systems"
+        "meta": "participation systems",
+        "slack": [
+            "C5RHR9FPG"
+        ]
     },
     "Quality Assurance": {
         "bugzillarest": [
@@ -3438,13 +3457,6 @@
         "meta": "technical/developer evangelism",
         "nntp": [
             "news.mozilla.org mozilla.evangelism"
-        ]
-    },
-    "Test": {
-        "meta": "test",
-        "slack": [
-            "C4BN4JCR2",
-            "C5RHR9FPG"
         ]
     },
     "Test Pilot": {
@@ -4956,10 +4968,7 @@
             "https://github.com/mozilla/yaocho.git",
             "https://github.com/mozilla/yogafire.git",
             "https://github.com/mozilla/zest.git",
-            "https://github.com/mozilla/zippy.git",
-            "https://github.com/tdaede/image-compare.git",
-            "https://github.com/xiph/daala.git",
-            "https://github.com/xiph/rav1e.git"
+            "https://github.com/mozilla/zippy.git"
         ],
         "github": [
             "https://github.com/Mozilla-TWQA/Hasal",
@@ -5813,10 +5822,7 @@
             "https://github.com/mozilla/yaocho",
             "https://github.com/mozilla/yogafire",
             "https://github.com/mozilla/zest",
-            "https://github.com/mozilla/zippy",
-            "https://github.com/tdaede/image-compare",
-            "https://github.com/xiph/daala",
-            "https://github.com/xiph/rav1e"
+            "https://github.com/mozilla/zippy"
         ],
         "meta": "unknown",
         "nntp": [
@@ -6696,6 +6702,9 @@
         ],
         "remo": [
             "https://reps.mozilla.org"
+        ],
+        "twitter": [
+            ""
         ]
     }
 }
