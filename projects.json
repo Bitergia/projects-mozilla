@@ -164,6 +164,7 @@
     },
     "Daala": {
         "git": [
+            "https://aomedia.googlesource.com/aom",
             "https://github.com/tdaede/image-compare.git",
             "https://github.com/xiph/daala.git",
             "https://github.com/xiph/rav1e.git"
