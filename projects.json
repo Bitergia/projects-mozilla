@@ -2767,6 +2767,15 @@
             "news.mozilla.org mozilla.support.thunderbird"
         ]
     },
+    "OSSN": {
+        "git": [
+            ".git"
+        ],
+        "github": [
+            ""
+        ],
+        "meta": "ossn"
+    },
     "Open Innovation": {
         "discourse": [
             "192"
@@ -6679,6 +6688,13 @@
             "https://github.com/aframevr/awesome-aframe",
             "https://github.com/aframevr/sample-assets",
             "https://github.com/aframevr/slackoverflow"
+        ],
+        "meetup": [
+            "DigitalOceanRecife",
+            "PublicVRLab",
+            "SF-NURDs",
+            "Silicon-Valley-HTML5-WebGL-Meetup",
+            "xR-World-Madrid"
         ],
         "meta": "webvr",
         "stackexchange": [
