@@ -6680,6 +6680,13 @@
             "https://github.com/aframevr/sample-assets",
             "https://github.com/aframevr/slackoverflow"
         ],
+        "meetup": [
+            "DigitalOceanRecife",
+            "PublicVRLab",
+            "SF-NURDs",
+            "Silicon-Valley-HTML5-WebGL-Meetup",
+            "xR-World-Madrid"
+        ],
         "meta": "webvr",
         "stackexchange": [
             "http://stackoverflow.com/questions/tagged/aframe"
