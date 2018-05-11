@@ -2046,6 +2046,7 @@
             "https://github.com/MozillaFoundation/Build-and-Book.git",
             "https://github.com/MozillaFoundation/Building-Networks.git",
             "https://github.com/MozillaFoundation/Design.git",
+            "https://github.com/MozillaFoundation/Engagement.git",
             "https://github.com/MozillaFoundation/Goals.git",
             "https://github.com/MozillaFoundation/MoFo-Engineering-Handbook.git",
             "https://github.com/MozillaFoundation/MoFoLondon.git",
@@ -2056,7 +2057,10 @@
             "https://github.com/MozillaFoundation/board_presentations.git",
             "https://github.com/MozillaFoundation/convenings.git",
             "https://github.com/MozillaFoundation/digital-skills-observatory.git",
+            "https://github.com/MozillaFoundation/gigabit.git",
+            "https://github.com/MozillaFoundation/github-playground.git",
             "https://github.com/MozillaFoundation/green.git",
+            "https://github.com/MozillaFoundation/iot.git",
             "https://github.com/MozillaFoundation/mofo-crm.git",
             "https://github.com/MozillaFoundation/mofo-devops.git",
             "https://github.com/MozillaFoundation/mofo-example-app.git",
@@ -2092,6 +2096,7 @@
             "https://github.com/MozillaFoundation/Build-and-Book",
             "https://github.com/MozillaFoundation/Building-Networks",
             "https://github.com/MozillaFoundation/Design",
+            "https://github.com/MozillaFoundation/Engagement",
             "https://github.com/MozillaFoundation/Goals",
             "https://github.com/MozillaFoundation/MoFo-Engineering-Handbook",
             "https://github.com/MozillaFoundation/MoFoLondon",
@@ -2102,7 +2107,10 @@
             "https://github.com/MozillaFoundation/board_presentations",
             "https://github.com/MozillaFoundation/convenings",
             "https://github.com/MozillaFoundation/digital-skills-observatory",
+            "https://github.com/MozillaFoundation/gigabit",
+            "https://github.com/MozillaFoundation/github-playground",
             "https://github.com/MozillaFoundation/green",
+            "https://github.com/MozillaFoundation/iot",
             "https://github.com/MozillaFoundation/mofo-crm",
             "https://github.com/MozillaFoundation/mofo-devops",
             "https://github.com/MozillaFoundation/mofo-example-app",
@@ -3186,6 +3194,9 @@
             "irc://irc.mozilla.org/rust-lang /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust-lang",
             "irc://irc.mozilla.org/rust-libs /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust-libs",
             "irc://irc.mozilla.org/rustc /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rustc"
+        ],
+        "twitter": [
+            "rustlang"
         ]
     },
     "Servo": {
@@ -4128,10 +4139,6 @@
             "https://github.com/Mozilla-TWQA/mozMinions.git",
             "https://github.com/Mozilla-TWQA/mtbf-jenkins-backup.git",
             "https://github.com/Mozilla-TWQA/mtbf_operation.git",
-            "https://github.com/MozillaFoundation/Engagement.git",
-            "https://github.com/MozillaFoundation/gigabit.git",
-            "https://github.com/MozillaFoundation/github-playground.git",
-            "https://github.com/MozillaFoundation/iot.git",
             "https://github.com/mozilla-japan/ContributionFeedback.git",
             "https://github.com/mozilla-japan/avatar-robot.git",
             "https://github.com/mozilla-japan/becky-import-addon.git",
@@ -4982,10 +4989,6 @@
             "https://github.com/Mozilla-TWQA/mozMinions",
             "https://github.com/Mozilla-TWQA/mtbf-jenkins-backup",
             "https://github.com/Mozilla-TWQA/mtbf_operation",
-            "https://github.com/MozillaFoundation/Engagement",
-            "https://github.com/MozillaFoundation/gigabit",
-            "https://github.com/MozillaFoundation/github-playground",
-            "https://github.com/MozillaFoundation/iot",
             "https://github.com/mozilla-japan/ContributionFeedback",
             "https://github.com/mozilla-japan/avatar-robot",
             "https://github.com/mozilla-japan/becky-import-addon",
@@ -6612,6 +6615,29 @@
             "news.mozilla.org mozilla.reps.webdev"
         ]
     },
+    "WebMR": {
+        "git": [
+            "http://github.com/mozillareality/firefoxreality.git",
+            "https://github.com/mozilla/hubs.git",
+            "https://github.com/mozilla/janus-plugin-rs.git",
+            "https://github.com/mozilla/janus-plugin-sfu.git",
+            "https://github.com/mozilla/naf-janus-adapter.git",
+            "https://github.com/mozilla/reticulum.git",
+            "https://github.com/mozilla/unity-webvr-export.git",
+            "https://github.com/mrdoob/three.js.git"
+        ],
+        "github": [
+            "http://github.com/mozillareality/firefoxreality",
+            "https://github.com/mozilla/hubs",
+            "https://github.com/mozilla/janus-plugin-rs",
+            "https://github.com/mozilla/janus-plugin-sfu",
+            "https://github.com/mozilla/naf-janus-adapter",
+            "https://github.com/mozilla/reticulum",
+            "https://github.com/mozilla/unity-webvr-export",
+            "https://github.com/mrdoob/three.js"
+        ],
+        "meta": "webmr"
+    },
     "WebVR": {
         "discourse": [
             "233"
@@ -6631,7 +6657,6 @@
             "https://github.com/aframevr/360-image-gallery-boilerplate.git",
             "https://github.com/aframevr/a-blast.git",
             "https://github.com/aframevr/a-frobot.git",
-            "https://github.com/aframevr/a-painter.git",
             "https://github.com/aframevr/a-saturday-night.git",
             "https://github.com/aframevr/aframe-boilerplate.git",
             "https://github.com/aframevr/aframe-inspector.git",
@@ -6663,7 +6688,6 @@
             "https://github.com/aframevr/360-image-gallery-boilerplate",
             "https://github.com/aframevr/a-blast",
             "https://github.com/aframevr/a-frobot",
-            "https://github.com/aframevr/a-painter",
             "https://github.com/aframevr/a-saturday-night",
             "https://github.com/aframevr/aframe",
             "https://github.com/aframevr/aframe-boilerplate",
@@ -6690,6 +6714,14 @@
         "meta": "webvr",
         "stackexchange": [
             "http://stackoverflow.com/questions/tagged/aframe"
+        ],
+        "twitter": [
+            "aframe",
+            "aframevr",
+            "webar",
+            "webmr",
+            "webvr",
+            "webxr"
         ]
     },
     "unknown": {
