@@ -9799,6 +9799,9 @@
         "remo": [
             "https://reps.mozilla.org"
         ],
+        "remo:activities": [
+            "https://reps.mozilla.org"
+        ],
         "twitter": [
             ""
         ]
