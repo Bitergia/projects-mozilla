@@ -6245,15 +6245,15 @@
             "http://stackoverflow.com/questions/tagged/rust"
         ],
         "supybot": [
-            "irc://irc.mozilla.org/rust /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust",
-            "irc://irc.mozilla.org/rust-beginners /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust-beginners",
-            "irc://irc.mozilla.org/rust-community /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust-community",
-            "irc://irc.mozilla.org/rust-dev-tools /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust-dev-tools",
-            "irc://irc.mozilla.org/rust-infra /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust-infra",
-            "irc://irc.mozilla.org/rust-internals /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust-internals",
-            "irc://irc.mozilla.org/rust-lang /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust-lang",
-            "irc://irc.mozilla.org/rust-libs /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rust-libs",
-            "irc://irc.mozilla.org/rustc /home/bitergia/irc/percevalbot/logs/ChannelLogger/mozilla/#rustc"
+            "irc://irc.mozilla.org/rust /irclogs/#rust",
+            "irc://irc.mozilla.org/rust-beginners /irclogs/#rust-beginners",
+            "irc://irc.mozilla.org/rust-community /irclogs/#rust-community",
+            "irc://irc.mozilla.org/rust-dev-tools /irclogs/#rust-dev-tools",
+            "irc://irc.mozilla.org/rust-infra /irclogs/#rust-infra",
+            "irc://irc.mozilla.org/rust-internals /irclogs/#rust-internals",
+            "irc://irc.mozilla.org/rust-lang /irclogs/#rust-lang",
+            "irc://irc.mozilla.org/rust-libs /irclogs/#rust-libs",
+            "irc://irc.mozilla.org/rustc /irclogs/#rustc"
         ],
         "twitter": [
             "rustlang"
