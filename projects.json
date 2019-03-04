@@ -78,12 +78,7 @@
             "https://github.com/mozilla/amo-validator",
             "https://github.com/mozilla/blok"
         ],
-        "meta": "addons/web extensions",
-        "nntp": [
-            "news.mozilla.org mozilla.addons.chromebug",
-            "news.mozilla.org mozilla.dev.extensions.br",
-            "news.mozilla.org mozilla.dev.themes"
-        ]
+        "meta": "addons/web extensions"
     },
     "Advocacy and policy": {
         "bugzillarest": [
@@ -155,10 +150,7 @@
         "github": [
             "https://github.com/mozilla-japan/lot"
         ],
-        "meta": "connected devices & iot",
-        "nntp": [
-            "news.mozilla.org mozilla.dev.sensorweb"
-        ]
+        "meta": "connected devices & iot"
     },
     "Daala": {
         "git": [
@@ -227,10 +219,7 @@
             "https://github.com/mozilla/devtools-perf-game",
             "https://github.com/mozilla/devtools-reqs"
         ],
-        "meta": "developer tools",
-        "nntp": [
-            "news.mozilla.org mozilla.dev.developer-tools"
-        ]
+        "meta": "developer tools"
     },
     "Firefox": {
         "bugzillarest": [
@@ -565,18 +554,7 @@
             "https://github.com/mozilla/masterfirefoxos",
             "https://github.com/mozilla/masterfirefoxos-l10n"
         ],
-        "meta": "firefox os (fxos / b2g)",
-        "nntp": [
-            "news.mozilla.org mozilla.dev.b2g",
-            "news.mozilla.org mozilla.dev.b2g.feedback",
-            "news.mozilla.org mozilla.dev.fxos",
-            "news.mozilla.org mozilla.dev.fxos.sync",
-            "news.mozilla.org mozilla.dev.gaia",
-            "news.mozilla.org mozilla.dev.marketplace",
-            "news.mozilla.org mozilla.dev.webapps",
-            "news.mozilla.org mozilla.webapps",
-            "news.mozilla.org mozilla.webapps.pt-br"
-        ]
+        "meta": "firefox os (fxos / b2g)"
     },
     "Firefox Student Ambassadors": {
         "bugzillarest": [
@@ -1705,35 +1683,7 @@
             "https://github.com/mozilla-l10n/zerda-android-l10n",
             "https://github.com/mozilla/activity-stream-l10n"
         ],
-        "meta": "localization",
-        "nntp": [
-            "news.mozilla.org mozilla.dev.l10n",
-            "news.mozilla.org mozilla.dev.l10n.announce",
-            "news.mozilla.org mozilla.dev.l10n.ar",
-            "news.mozilla.org mozilla.dev.l10n.bm",
-            "news.mozilla.org mozilla.dev.l10n.cy",
-            "news.mozilla.org mozilla.dev.l10n.hi",
-            "news.mozilla.org mozilla.dev.l10n.in",
-            "news.mozilla.org mozilla.dev.l10n.km",
-            "news.mozilla.org mozilla.dev.l10n.lk",
-            "news.mozilla.org mozilla.dev.l10n.lo",
-            "news.mozilla.org mozilla.dev.l10n.mg",
-            "news.mozilla.org mozilla.dev.l10n.ms",
-            "news.mozilla.org mozilla.dev.l10n.my",
-            "news.mozilla.org mozilla.dev.l10n.nativo",
-            "news.mozilla.org mozilla.dev.l10n.new-locales",
-            "news.mozilla.org mozilla.dev.l10n.pt-br",
-            "news.mozilla.org mozilla.dev.l10n.sk",
-            "news.mozilla.org mozilla.dev.l10n.sr",
-            "news.mozilla.org mozilla.dev.l10n.sw",
-            "news.mozilla.org mozilla.dev.l10n.ta",
-            "news.mozilla.org mozilla.dev.l10n.te",
-            "news.mozilla.org mozilla.dev.l10n.uk",
-            "news.mozilla.org mozilla.dev.l10n.vi",
-            "news.mozilla.org mozilla.dev.l10n.web",
-            "news.mozilla.org mozilla.dev.l10n.wo",
-            "news.mozilla.org netscape.public.mozilla.l10n"
-        ]
+        "meta": "localization"
     },
     "Marketing / Social Media": {
         "bugzillarest": [
@@ -1796,10 +1746,7 @@
             "https://github.com/mozmar/status",
             "https://github.com/mozmar/status.mozmar.org"
         ],
-        "meta": "marketing / social media",
-        "nntp": [
-            "news.mozilla.org mozilla.marketing"
-        ]
+        "meta": "marketing / social media"
     },
     "Mozilla Clubs": {
         "git": [
@@ -2006,16 +1953,7 @@
             "https://github.com/mozilla/mdn-devtool",
             "https://github.com/mozilla/mdn-tests"
         ],
-        "meta": "mozilla developer network (mdn)",
-        "nntp": [
-            "news.mozilla.org mozilla.dev.mdc",
-            "news.mozilla.org mozilla.dev.mdc.es",
-            "news.mozilla.org mozilla.dev.mdc.ja",
-            "news.mozilla.org mozilla.dev.mdc.pt",
-            "news.mozilla.org mozilla.dev.mdn",
-            "news.mozilla.org mozilla.mdn",
-            "news.mozilla.org mozilla.mdn.services"
-        ]
+        "meta": "mozilla developer network (mdn)"
     },
     "Mozilla Foundation": {
         "bugzillarest": [
@@ -2135,14 +2073,7 @@
             "https://github.com/mozilla/mofo-transaction-storage",
             "https://github.com/mozilla/mofo-ui"
         ],
-        "meta": "mozilla foundation",
-        "nntp": [
-            "news.mozilla.org mozilla.drumbeat.barcelona",
-            "news.mozilla.org mozilla.drumbeat.festival",
-            "news.mozilla.org mozilla.drumbeat.privacy-icons",
-            "news.mozilla.org mozilla.drumbeat.website",
-            "news.mozilla.org mozilla.education"
-        ]
+        "meta": "mozilla foundation"
     },
     "Mozilla Local/Regional communities": {
         "bugzillarest": [
@@ -2579,79 +2510,7 @@
             "https://github.com/moztw/www",
             "https://github.com/moztw/www.moztw.org"
         ],
-        "meta": "mozilla local/regional communities",
-        "nntp": [
-            "news.mozilla.org mozilla.community.africa",
-            "news.mozilla.org mozilla.community.algeria",
-            "news.mozilla.org mozilla.community.antarctica",
-            "news.mozilla.org mozilla.community.arab-world",
-            "news.mozilla.org mozilla.community.armyofawesome",
-            "news.mozilla.org mozilla.community.artzilla",
-            "news.mozilla.org mozilla.community.australia",
-            "news.mozilla.org mozilla.community.balkans",
-            "news.mozilla.org mozilla.community.bangladesh",
-            "news.mozilla.org mozilla.community.belgium",
-            "news.mozilla.org mozilla.community.berlin",
-            "news.mozilla.org mozilla.community.brasil",
-            "news.mozilla.org mozilla.community.bulgaria",
-            "news.mozilla.org mozilla.community.canada",
-            "news.mozilla.org mozilla.community.chile",
-            "news.mozilla.org mozilla.community.colombia",
-            "news.mozilla.org mozilla.community.crafting",
-            "news.mozilla.org mozilla.community.croatia",
-            "news.mozilla.org mozilla.community.denmark",
-            "news.mozilla.org mozilla.community.devderby",
-            "news.mozilla.org mozilla.community.digital-freedom",
-            "news.mozilla.org mozilla.community.diversity",
-            "news.mozilla.org mozilla.community.drumbeat",
-            "news.mozilla.org mozilla.community.dutch",
-            "news.mozilla.org mozilla.community.esperanto",
-            "news.mozilla.org mozilla.community.german",
-            "news.mozilla.org mozilla.community.ghana",
-            "news.mozilla.org mozilla.community.greece",
-            "news.mozilla.org mozilla.community.hungary",
-            "news.mozilla.org mozilla.community.iceland",
-            "news.mozilla.org mozilla.community.ignite",
-            "news.mozilla.org mozilla.community.india",
-            "news.mozilla.org mozilla.community.india.dev",
-            "news.mozilla.org mozilla.community.indonesia",
-            "news.mozilla.org mozilla.community.ireland",
-            "news.mozilla.org mozilla.community.kenya",
-            "news.mozilla.org mozilla.community.kerala",
-            "news.mozilla.org mozilla.community.lithuania",
-            "news.mozilla.org mozilla.community.local-sites",
-            "news.mozilla.org mozilla.community.malaysia",
-            "news.mozilla.org mozilla.community.mali",
-            "news.mozilla.org mozilla.community.mexico",
-            "news.mozilla.org mozilla.community.mojo",
-            "news.mozilla.org mozilla.community.mongolia",
-            "news.mozilla.org mozilla.community.morocco",
-            "news.mozilla.org mozilla.community.nepal",
-            "news.mozilla.org mozilla.community.nigeria",
-            "news.mozilla.org mozilla.community.norway",
-            "news.mozilla.org mozilla.community.philippines",
-            "news.mozilla.org mozilla.community.platform-ops",
-            "news.mozilla.org mozilla.community.portugal",
-            "news.mozilla.org mozilla.community.quebec",
-            "news.mozilla.org mozilla.community.romania",
-            "news.mozilla.org mozilla.community.rwanda",
-            "news.mozilla.org mozilla.community.senegal",
-            "news.mozilla.org mozilla.community.sri-lanka",
-            "news.mozilla.org mozilla.community.sweden",
-            "news.mozilla.org mozilla.community.switzerland",
-            "news.mozilla.org mozilla.community.toronto",
-            "news.mozilla.org mozilla.community.tunisia",
-            "news.mozilla.org mozilla.community.turkey",
-            "news.mozilla.org mozilla.community.uganda",
-            "news.mozilla.org mozilla.community.uk",
-            "news.mozilla.org mozilla.community.vietnam",
-            "news.mozilla.org mozilla.dev.general.zh",
-            "news.mozilla.org mozilla.reps.comms",
-            "news.mozilla.org mozilla.reps.council",
-            "news.mozilla.org mozilla.reps.general",
-            "news.mozilla.org mozilla.reps.mentors",
-            "news.mozilla.org mozilla.reps.students"
-        ]
+        "meta": "mozilla local/regional communities"
     },
     "Mozilla Location Service (MLS) / Stumbler": {
         "git": [
@@ -2760,17 +2619,7 @@
             "https://bugzilla.mozilla.org/buglist.cgi?product=support.mozillamessaging.com+Graveyard&component=General",
             "https://bugzilla.mozilla.org/buglist.cgi?product=support.mozillamessaging.com+Graveyard&component=Knowledge+Base+Articles"
         ],
-        "meta": "mozilla support (sumo)",
-        "nntp": [
-            "news.mozilla.org mozilla.dev.sumo",
-            "news.mozilla.org mozilla.sumo",
-            "news.mozilla.org mozilla.support.bugzilla",
-            "news.mozilla.org mozilla.support.calendar",
-            "news.mozilla.org mozilla.support.firefox",
-            "news.mozilla.org mozilla.support.instantbird",
-            "news.mozilla.org mozilla.support.seamonkey",
-            "news.mozilla.org mozilla.support.thunderbird"
-        ]
+        "meta": "mozilla support (sumo)"
     },
     "OSSN": {
         "git": [
@@ -5846,24 +5695,33 @@
             "192"
         ],
         "git": [
+            "https://github.com/SociallyCompute/Global-Consent-Manager.git",
             "https://github.com/mozilla/innovation-toolkit.git"
         ],
         "github": [
+            "https://github.com/SociallyCompute/Global-Consent-Manager",
             "https://github.com/mozilla/innovation-toolkit"
         ],
-        "meta": "open innovation",
-        "slack": [
-            "C4BN4JCR2"
-        ]
+        "meta": "open innovation"
     },
     "Participation Systems": {
         "discourse": [
             "142"
         ],
         "git": [
+            "https://github.com/mozilla-iam/auth0-custom-lock.git",
             "https://github.com/mozilla-iam/auth0-deploy.git",
             "https://github.com/mozilla-iam/cis.git",
             "https://github.com/mozilla-iam/cis_functions.git",
+            "https://github.com/mozilla-iam/dino-park-dev-tools.git",
+            "https://github.com/mozilla-iam/dino-park-front-end.git",
+            "https://github.com/mozilla-iam/dino-park-issues.git",
+            "https://github.com/mozilla-iam/dino-park-profile-publisher.git",
+            "https://github.com/mozilla-iam/dino-park-search.git",
+            "https://github.com/mozilla-iam/dino-park.git",
+            "https://github.com/mozilla-iam/dino-tree.git",
+            "https://github.com/mozilla-iam/eks-deployment.git",
+            "https://github.com/mozilla-iam/iam-profile-faker.git",
             "https://github.com/mozilla-iam/iam-project-backlog.git",
             "https://github.com/mozilla-iam/sso-dashboard-configuration.git",
             "https://github.com/mozilla-iam/sso-dashboard.git",
@@ -5888,9 +5746,19 @@
             "https://github.com/mozilla/remo.git"
         ],
         "github": [
+            "https://github.com/mozilla-iam/auth0-custom-lock",
             "https://github.com/mozilla-iam/auth0-deploy",
             "https://github.com/mozilla-iam/cis",
             "https://github.com/mozilla-iam/cis_functions",
+            "https://github.com/mozilla-iam/dino-park",
+            "https://github.com/mozilla-iam/dino-park-dev-tools",
+            "https://github.com/mozilla-iam/dino-park-front-end",
+            "https://github.com/mozilla-iam/dino-park-issues",
+            "https://github.com/mozilla-iam/dino-park-profile-publisher",
+            "https://github.com/mozilla-iam/dino-park-search",
+            "https://github.com/mozilla-iam/dino-tree",
+            "https://github.com/mozilla-iam/eks-deployment",
+            "https://github.com/mozilla-iam/iam-profile-faker",
             "https://github.com/mozilla-iam/iam-project-backlog",
             "https://github.com/mozilla-iam/sso-dashboard",
             "https://github.com/mozilla-iam/sso-dashboard-configuration",
@@ -5914,10 +5782,7 @@
             "https://github.com/mozilla/remo",
             "https://github.com/mozilla/remo-tests"
         ],
-        "meta": "participation systems",
-        "slack": [
-            "C5RHR9FPG"
-        ]
+        "meta": "participation systems"
     },
     "Quality Assurance": {
         "bugzillarest": [
@@ -5989,14 +5854,7 @@
             "https://github.com/mozilla/qa-mozmill-tests",
             "https://github.com/mozilla/qmo-tests"
         ],
-        "meta": "quality assurance",
-        "nntp": [
-            "news.mozilla.org netscape.public.mozilla.qa",
-            "news.mozilla.org netscape.public.mozilla.qa.browser",
-            "news.mozilla.org netscape.public.mozilla.qa.editor",
-            "news.mozilla.org netscape.public.mozilla.qa.general",
-            "news.mozilla.org netscape.public.mozilla.qa.i18n"
-        ]
+        "meta": "quality assurance"
     },
     "Release engineering": {
         "bugzillarest": [
@@ -6243,20 +6101,6 @@
         "meta": "rust",
         "stackexchange": [
             "http://stackoverflow.com/questions/tagged/rust"
-        ],
-        "supybot": [
-            "irc://irc.mozilla.org/rust /irclogs/#rust",
-            "irc://irc.mozilla.org/rust-beginners /irclogs/#rust-beginners",
-            "irc://irc.mozilla.org/rust-community /irclogs/#rust-community",
-            "irc://irc.mozilla.org/rust-dev-tools /irclogs/#rust-dev-tools",
-            "irc://irc.mozilla.org/rust-infra /irclogs/#rust-infra",
-            "irc://irc.mozilla.org/rust-internals /irclogs/#rust-internals",
-            "irc://irc.mozilla.org/rust-lang /irclogs/#rust-lang",
-            "irc://irc.mozilla.org/rust-libs /irclogs/#rust-libs",
-            "irc://irc.mozilla.org/rustc /irclogs/#rustc"
-        ],
-        "twitter": [
-            "rustlang"
         ]
     },
     "Servo": {
@@ -6432,11 +6276,7 @@
             "https://github.com/servo/webrender",
             "https://github.com/servo/webrender_traits"
         ],
-        "meta": "servo",
-        "nntp": [
-            "news.mozilla.org mozilla.dev.quantum",
-            "news.mozilla.org mozilla.dev.servo"
-        ]
+        "meta": "servo"
     },
     "Technical/Developer Evangelism": {
         "bugzillarest": [
@@ -6526,10 +6366,7 @@
             "https://github.com/mozdevs/webfont-preloading",
             "https://github.com/mozilla/mozhacks"
         ],
-        "meta": "technical/developer evangelism",
-        "nntp": [
-            "news.mozilla.org mozilla.evangelism"
-        ]
+        "meta": "technical/developer evangelism"
     },
     "Test Pilot": {
         "discourse": [
@@ -6649,10 +6486,7 @@
             "https://github.com/thundernest/thunderbird-website",
             "https://github.com/thundernest/thundernest-ansible"
         ],
-        "meta": "thunderbird",
-        "nntp": [
-            "news.mozilla.org mozilla.dev.apps.thunderbird"
-        ]
+        "meta": "thunderbird"
     },
     "Unknown": {
         "bugzillarest": [
@@ -8886,177 +8720,7 @@
             "https://github.com/mozilla/zest",
             "https://github.com/mozilla/zippy"
         ],
-        "meta": "unknown",
-        "nntp": [
-            "news.mozilla.org mozilla.accessibility",
-            "news.mozilla.org mozilla.activity-stream",
-            "news.mozilla.org mozilla.affiliates",
-            "news.mozilla.org mozilla.announce",
-            "news.mozilla.org mozilla.announce.compatibility",
-            "news.mozilla.org mozilla.apis",
-            "news.mozilla.org mozilla.autofill",
-            "news.mozilla.org mozilla.bugmasters",
-            "news.mozilla.org mozilla.cbt.education",
-            "news.mozilla.org mozilla.dev.accessibility",
-            "news.mozilla.org mozilla.dev.apps.bugzilla",
-            "news.mozilla.org mozilla.dev.apps.calendar",
-            "news.mozilla.org mozilla.dev.apps.chatzilla",
-            "news.mozilla.org mozilla.dev.apps.dom-inspector",
-            "news.mozilla.org mozilla.dev.apps.seamonkey",
-            "news.mozilla.org mozilla.dev.automation",
-            "news.mozilla.org mozilla.dev.bluetooth",
-            "news.mozilla.org mozilla.dev.builds",
-            "news.mozilla.org mozilla.dev.chat",
-            "news.mozilla.org mozilla.dev.community-tools",
-            "news.mozilla.org mozilla.dev.decentralization",
-            "news.mozilla.org mozilla.dev.flyweb",
-            "news.mozilla.org mozilla.dev.geolocation",
-            "news.mozilla.org mozilla.dev.identity",
-            "news.mozilla.org mozilla.dev.js-sourcemap",
-            "news.mozilla.org mozilla.dev.media",
-            "news.mozilla.org mozilla.dev.memory",
-            "news.mozilla.org mozilla.dev.mozdef",
-            "news.mozilla.org mozilla.dev.mozjpeg",
-            "news.mozilla.org mozilla.dev.pdf-js",
-            "news.mozilla.org mozilla.dev.planning",
-            "news.mozilla.org mozilla.dev.platform",
-            "news.mozilla.org mozilla.dev.platform.ux",
-            "news.mozilla.org mozilla.dev.popcorn",
-            "news.mozilla.org mozilla.dev.ports.os2",
-            "news.mozilla.org mozilla.dev.power",
-            "news.mozilla.org mozilla.dev.privacy",
-            "news.mozilla.org mozilla.dev.project-link",
-            "news.mozilla.org mozilla.dev.quality",
-            "news.mozilla.org mozilla.dev.quality.bd",
-            "news.mozilla.org mozilla.dev.raspberry-pi",
-            "news.mozilla.org mozilla.dev.rtl",
-            "news.mozilla.org mozilla.dev.security",
-            "news.mozilla.org mozilla.dev.security.policy",
-            "news.mozilla.org mozilla.dev.services.circus",
-            "news.mozilla.org mozilla.dev.shumway",
-            "news.mozilla.org mozilla.dev.static-analysis",
-            "news.mozilla.org mozilla.dev.super-review",
-            "news.mozilla.org mozilla.dev.tech.crypto",
-            "news.mozilla.org mozilla.dev.tech.crypto.checkins",
-            "news.mozilla.org mozilla.dev.tech.electrolysis",
-            "news.mozilla.org mozilla.dev.tech.gfx",
-            "news.mozilla.org mozilla.dev.tech.java",
-            "news.mozilla.org mozilla.dev.tech.js-engine",
-            "news.mozilla.org mozilla.dev.tech.js-engine.internals",
-            "news.mozilla.org mozilla.dev.tech.js-engine.rhino",
-            "news.mozilla.org mozilla.dev.tech.js-engine.rivertrail",
-            "news.mozilla.org mozilla.dev.tech.layout",
-            "news.mozilla.org mozilla.dev.tech.ldap",
-            "news.mozilla.org mozilla.dev.tech.mathml",
-            "news.mozilla.org mozilla.dev.tech.network",
-            "news.mozilla.org mozilla.dev.tech.nspr",
-            "news.mozilla.org mozilla.dev.tech.plugins",
-            "news.mozilla.org mozilla.dev.tech.rdf",
-            "news.mozilla.org mozilla.dev.tech.sql",
-            "news.mozilla.org mozilla.dev.tech.svg",
-            "news.mozilla.org mozilla.dev.tech.xforms",
-            "news.mozilla.org mozilla.dev.tech.xml",
-            "news.mozilla.org mozilla.dev.tech.xpcom",
-            "news.mozilla.org mozilla.dev.tech.xslt",
-            "news.mozilla.org mozilla.dev.telemetry-alerts",
-            "news.mozilla.org mozilla.dev.tree-alerts",
-            "news.mozilla.org mozilla.dev.tree-management",
-            "news.mozilla.org mozilla.dev.tree-management.tracemonkey",
-            "news.mozilla.org mozilla.dev.ui-alerts",
-            "news.mozilla.org mozilla.dev.usability",
-            "news.mozilla.org mozilla.dev.version-control",
-            "news.mozilla.org mozilla.events",
-            "news.mozilla.org mozilla.general",
-            "news.mozilla.org mozilla.governance",
-            "news.mozilla.org mozilla.jobs",
-            "news.mozilla.org mozilla.join",
-            "news.mozilla.org mozilla.legal",
-            "news.mozilla.org mozilla.moss",
-            "news.mozilla.org mozilla.privacy",
-            "news.mozilla.org mozilla.release.engineering",
-            "news.mozilla.org mozilla.test",
-            "news.mozilla.org mozilla.test.multimedia",
-            "news.mozilla.org mozilla.tools",
-            "news.mozilla.org mozilla.tools.bmo",
-            "news.mozilla.org mozilla.tools.elmo",
-            "news.mozilla.org mozilla.tools.l10n",
-            "news.mozilla.org mozilla.tools.marionette",
-            "news.mozilla.org mozilla.tools.pulse",
-            "news.mozilla.org mozilla.tools.puppetagain",
-            "news.mozilla.org mozilla.tools.socorro",
-            "news.mozilla.org mozilla.tools.taskcluster",
-            "news.mozilla.org mozilla.tools.treeherder",
-            "news.mozilla.org mozilla.tools.wiki",
-            "news.mozilla.org mozilla.wishlist",
-            "news.mozilla.org netscape.public.beta.feedback",
-            "news.mozilla.org netscape.public.dev.xul",
-            "news.mozilla.org netscape.public.mozilla.accessibility",
-            "news.mozilla.org netscape.public.mozilla.announce",
-            "news.mozilla.org netscape.public.mozilla.beos",
-            "news.mozilla.org netscape.public.mozilla.browser",
-            "news.mozilla.org netscape.public.mozilla.builds",
-            "news.mozilla.org netscape.public.mozilla.calendar",
-            "news.mozilla.org netscape.public.mozilla.calendar.checkins",
-            "news.mozilla.org netscape.public.mozilla.checkins",
-            "news.mozilla.org netscape.public.mozilla.crash-data",
-            "news.mozilla.org netscape.public.mozilla.crypto",
-            "news.mozilla.org netscape.public.mozilla.crypto.checkins",
-            "news.mozilla.org netscape.public.mozilla.directory",
-            "news.mozilla.org netscape.public.mozilla.documentation",
-            "news.mozilla.org netscape.public.mozilla.dom",
-            "news.mozilla.org netscape.public.mozilla.editor",
-            "news.mozilla.org netscape.public.mozilla.embedding",
-            "news.mozilla.org netscape.public.mozilla.general",
-            "news.mozilla.org netscape.public.mozilla.gtk",
-            "news.mozilla.org netscape.public.mozilla.i18n",
-            "news.mozilla.org netscape.public.mozilla.java",
-            "news.mozilla.org netscape.public.mozilla.jobs",
-            "news.mozilla.org netscape.public.mozilla.jsdebugger",
-            "news.mozilla.org netscape.public.mozilla.jseng",
-            "news.mozilla.org netscape.public.mozilla.layout",
-            "news.mozilla.org netscape.public.mozilla.layout.checkins",
-            "news.mozilla.org netscape.public.mozilla.layout.xslt",
-            "news.mozilla.org netscape.public.mozilla.license",
-            "news.mozilla.org netscape.public.mozilla.mac",
-            "news.mozilla.org netscape.public.mozilla.macosx",
-            "news.mozilla.org netscape.public.mozilla.mail-news",
-            "news.mozilla.org netscape.public.mozilla.mathml",
-            "news.mozilla.org netscape.public.mozilla.mstone",
-            "news.mozilla.org netscape.public.mozilla.netlib",
-            "news.mozilla.org netscape.public.mozilla.newsclips",
-            "news.mozilla.org netscape.public.mozilla.nspr",
-            "news.mozilla.org netscape.public.mozilla.oji",
-            "news.mozilla.org netscape.public.mozilla.os2",
-            "news.mozilla.org netscape.public.mozilla.patches",
-            "news.mozilla.org netscape.public.mozilla.performance",
-            "news.mozilla.org netscape.public.mozilla.performance.size-matters",
-            "news.mozilla.org netscape.public.mozilla.platform",
-            "news.mozilla.org netscape.public.mozilla.plugins",
-            "news.mozilla.org netscape.public.mozilla.porkjockeys",
-            "news.mozilla.org netscape.public.mozilla.prefs",
-            "news.mozilla.org netscape.public.mozilla.qt",
-            "news.mozilla.org netscape.public.mozilla.rdf",
-            "news.mozilla.org netscape.public.mozilla.reviewers",
-            "news.mozilla.org netscape.public.mozilla.rhapsody",
-            "news.mozilla.org netscape.public.mozilla.rt-messaging",
-            "news.mozilla.org netscape.public.mozilla.seamonkey",
-            "news.mozilla.org netscape.public.mozilla.security",
-            "news.mozilla.org netscape.public.mozilla.small-devices",
-            "news.mozilla.org netscape.public.mozilla.style",
-            "news.mozilla.org netscape.public.mozilla.svg",
-            "news.mozilla.org netscape.public.mozilla.test",
-            "news.mozilla.org netscape.public.mozilla.ui",
-            "news.mozilla.org netscape.public.mozilla.unix",
-            "news.mozilla.org netscape.public.mozilla.unix.checkins",
-            "news.mozilla.org netscape.public.mozilla.webtools",
-            "news.mozilla.org netscape.public.mozilla.win32",
-            "news.mozilla.org netscape.public.mozilla.wishlist",
-            "news.mozilla.org netscape.public.mozilla.xbl",
-            "news.mozilla.org netscape.public.mozilla.xpcom",
-            "news.mozilla.org netscape.public.mozilla.xpfe",
-            "news.mozilla.org netscape.public.mozilla.xpfe.checkins",
-            "news.mozilla.org netscape.public.mozilla.xpinstall"
-        ]
+        "meta": "unknown"
     },
     "Vaani": {
         "git": [
@@ -9098,10 +8762,7 @@
             "https://github.com/webcompat/webcompat-reporter-extensions",
             "https://github.com/webcompat/webcompat.com"
         ],
-        "meta": "web compatibility",
-        "nntp": [
-            "news.mozilla.org mozilla.compatibility"
-        ]
+        "meta": "web compatibility"
     },
     "Web Literacy": {
         "bugzillarest": [
@@ -9240,14 +8901,7 @@
             "https://github.com/mozilla/webmaker.org",
             "https://github.com/mozilla/webmakerprototypes.org"
         ],
-        "meta": "web literacy",
-        "nntp": [
-            "news.mozilla.org mozilla.qa.webmaker",
-            "news.mozilla.org mozilla.webmaker",
-            "news.mozilla.org mozilla.webmaker.brasil",
-            "news.mozilla.org mozilla.webmaker.canada.bc",
-            "news.mozilla.org mozilla.webmaker.l10n"
-        ]
+        "meta": "web literacy"
     },
     "Web Properties": {
         "bugzillarest": [
@@ -9662,18 +9316,29 @@
             "https://github.com/mozilla/zamboni-dashboard",
             "https://github.com/mozilla/zamboni-lib"
         ],
-        "meta": "web properties",
-        "nntp": [
-            "news.mozilla.org mozilla.dev.mozilla-org",
-            "news.mozilla.org mozilla.dev.web-development",
-            "news.mozilla.org mozilla.dev.webdev",
-            "news.mozilla.org mozilla.mozillians",
-            "news.mozilla.org mozilla.reps.webdev"
-        ]
+        "meta": "web properties"
     },
     "WebMR": {
         "git": [
             "http://github.com/mozillareality/firefoxreality.git",
+            "https://github.com/aframevr/360-image-gallery-boilerplate.git",
+            "https://github.com/aframevr/a-blast.git",
+            "https://github.com/aframevr/a-frobot.git",
+            "https://github.com/aframevr/a-saturday-night.git",
+            "https://github.com/aframevr/aframe-boilerplate.git",
+            "https://github.com/aframevr/aframe-inspector.git",
+            "https://github.com/aframevr/aframe-presentation-kit.git",
+            "https://github.com/aframevr/aframe-react.git",
+            "https://github.com/aframevr/aframe-registry.git",
+            "https://github.com/aframevr/aframe-school.git",
+            "https://github.com/aframevr/aframe-site.git",
+            "https://github.com/aframevr/aframe.git",
+            "https://github.com/aframevr/aframevr.github.io.git",
+            "https://github.com/aframevr/angle.git",
+            "https://github.com/aframevr/assets.git",
+            "https://github.com/aframevr/awesome-aframe.git",
+            "https://github.com/aframevr/sample-assets.git",
+            "https://github.com/aframevr/slackoverflow.git",
             "https://github.com/mozilla/hubs.git",
             "https://github.com/mozilla/janus-plugin-rs.git",
             "https://github.com/mozilla/janus-plugin-sfu.git",
@@ -9684,6 +9349,24 @@
         ],
         "github": [
             "http://github.com/mozillareality/firefoxreality",
+            "https://github.com/aframevr/360-image-gallery-boilerplate",
+            "https://github.com/aframevr/a-blast",
+            "https://github.com/aframevr/a-frobot",
+            "https://github.com/aframevr/a-saturday-night",
+            "https://github.com/aframevr/aframe",
+            "https://github.com/aframevr/aframe-boilerplate",
+            "https://github.com/aframevr/aframe-inspector",
+            "https://github.com/aframevr/aframe-presentation-kit",
+            "https://github.com/aframevr/aframe-react",
+            "https://github.com/aframevr/aframe-registry",
+            "https://github.com/aframevr/aframe-school",
+            "https://github.com/aframevr/aframe-site",
+            "https://github.com/aframevr/aframevr.github.io",
+            "https://github.com/aframevr/angle",
+            "https://github.com/aframevr/assets",
+            "https://github.com/aframevr/awesome-aframe",
+            "https://github.com/aframevr/sample-assets",
+            "https://github.com/aframevr/slackoverflow",
             "https://github.com/mozilla/hubs",
             "https://github.com/mozilla/janus-plugin-rs",
             "https://github.com/mozilla/janus-plugin-sfu",
@@ -9709,25 +9392,7 @@
             "https://github.com/MozVR/vr-web-examples.git",
             "https://github.com/MozVR/webvr-addon.git",
             "https://github.com/MozVR/webvr-demos.git",
-            "https://github.com/MozVR/webvr-spec.git",
-            "https://github.com/aframevr/360-image-gallery-boilerplate.git",
-            "https://github.com/aframevr/a-blast.git",
-            "https://github.com/aframevr/a-frobot.git",
-            "https://github.com/aframevr/a-saturday-night.git",
-            "https://github.com/aframevr/aframe-boilerplate.git",
-            "https://github.com/aframevr/aframe-inspector.git",
-            "https://github.com/aframevr/aframe-presentation-kit.git",
-            "https://github.com/aframevr/aframe-react.git",
-            "https://github.com/aframevr/aframe-registry.git",
-            "https://github.com/aframevr/aframe-school.git",
-            "https://github.com/aframevr/aframe-site.git",
-            "https://github.com/aframevr/aframe.git",
-            "https://github.com/aframevr/aframevr.github.io.git",
-            "https://github.com/aframevr/angle.git",
-            "https://github.com/aframevr/assets.git",
-            "https://github.com/aframevr/awesome-aframe.git",
-            "https://github.com/aframevr/sample-assets.git",
-            "https://github.com/aframevr/slackoverflow.git"
+            "https://github.com/MozVR/webvr-spec.git"
         ],
         "github": [
             "https://github.com/MozVR/gamepad-plus",
@@ -9740,25 +9405,7 @@
             "https://github.com/MozVR/vr-web-examples",
             "https://github.com/MozVR/webvr-addon",
             "https://github.com/MozVR/webvr-demos",
-            "https://github.com/MozVR/webvr-spec",
-            "https://github.com/aframevr/360-image-gallery-boilerplate",
-            "https://github.com/aframevr/a-blast",
-            "https://github.com/aframevr/a-frobot",
-            "https://github.com/aframevr/a-saturday-night",
-            "https://github.com/aframevr/aframe",
-            "https://github.com/aframevr/aframe-boilerplate",
-            "https://github.com/aframevr/aframe-inspector",
-            "https://github.com/aframevr/aframe-presentation-kit",
-            "https://github.com/aframevr/aframe-react",
-            "https://github.com/aframevr/aframe-registry",
-            "https://github.com/aframevr/aframe-school",
-            "https://github.com/aframevr/aframe-site",
-            "https://github.com/aframevr/aframevr.github.io",
-            "https://github.com/aframevr/angle",
-            "https://github.com/aframevr/assets",
-            "https://github.com/aframevr/awesome-aframe",
-            "https://github.com/aframevr/sample-assets",
-            "https://github.com/aframevr/slackoverflow"
+            "https://github.com/MozVR/webvr-spec"
         ],
         "meetup": [
             "DigitalOceanRecife",
@@ -9770,40 +9417,20 @@
         "meta": "webvr",
         "stackexchange": [
             "http://stackoverflow.com/questions/tagged/aframe"
-        ],
-        "twitter": [
-            "aframe",
-            "aframevr",
-            "webar",
-            "webmr",
-            "webvr",
-            "webxr"
         ]
     },
     "unknown": {
         "bugzillarest": [
             "https://bugzilla.mozilla.org"
         ],
-        "crates": [
-            ""
-        ],
         "discourse": [
             "https://discourse.mozilla.org/"
-        ],
-        "mediawiki": [
-            "https://wiki.mozilla.org"
-        ],
-        "mozillaclub": [
-            "https://spreadsheets.google.com/feeds/cells/1QHl2bjBhMslyFzR5XXPzMLdzzx7oeSKTbgR5PM8qp64/ohaibtm/public/values?alt=json"
         ],
         "remo": [
             "https://reps.mozilla.org"
         ],
         "remo:activities": [
             "https://reps.mozilla.org"
-        ],
-        "twitter": [
-            ""
         ]
     }
 }
