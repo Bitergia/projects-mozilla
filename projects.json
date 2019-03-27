@@ -1214,7 +1214,6 @@
         "git": [
             "https://github.com/mozilla/gecko-dev.git",
             "https://github.com/mozilla/gecko-projects.git",
-            "https://github.com/mozilla/gecko.git",
             "https://github.com/mozilla/geckodriver.git",
             "https://github.com/mozilla/geckoview.git",
             "https://github.com/mozilla/jschannel.git",
@@ -1226,7 +1225,6 @@
             "https://github.com/mozilla/readability.git"
         ],
         "github": [
-            "https://github.com/mozilla/gecko",
             "https://github.com/mozilla/gecko-dev",
             "https://github.com/mozilla/gecko-projects",
             "https://github.com/mozilla/geckodriver",
